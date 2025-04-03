@@ -1,0 +1,560 @@
+Frame,Running Gait Cycle,Sub Phase,% Cycle,Trunk Lean,Front Knee Angle,Back Knee Angle,Front Hip Angle,Angle Each Body %,Result
+1,0,Terminal Stance,100.0%,-1.06 (Inaccurate ),44.59 (Accurate ),6.94 (Inaccurate ),4.56 (Inaccurate ),25.0 % ,Should Improve
+2,0,Terminal Stance,100.0%,-0.89 (Inaccurate ),43.87 (Accurate ),6.3 (Inaccurate ),3.66 (Inaccurate ),25.0 % ,Should Improve
+3,0,Terminal Stance,100.0%,-0.82 (Inaccurate ),43.51 (Accurate ),5.65 (Inaccurate ),3.05 (Inaccurate ),25.0 % ,Should Improve
+4,0,Terminal Stance,100.0%,-0.67 (Inaccurate ),43.44 (Accurate ),5.2 (Inaccurate ),2.34 (Inaccurate ),25.0 % ,Should Improve
+5,0,Terminal Stance,100.0%,-0.27 (Inaccurate ),44.23 (Accurate ),5.13 (Inaccurate ),0.69 (Inaccurate ),25.0 % ,Should Improve
+6,0,Terminal Stance,100.0%,-0.23 (Inaccurate ),46.24 (Accurate ),4.92 (Inaccurate ),1.69 (Inaccurate ),25.0 % ,Should Improve
+7,0,Terminal Stance,100.0%,0.59 (Inaccurate ),45.76 (Accurate ),5.13 (Inaccurate ),3.74 (Inaccurate ),25.0 % ,Should Improve
+8,0,Terminal Stance,100.0%,0.78 (Inaccurate ),44.06 (Accurate ),4.58 (Inaccurate ),4.28 (Inaccurate ),25.0 % ,Should Improve
+9,0,Terminal Stance,100.0%,0.71 (Inaccurate ),41.83 (Accurate ),3.77 (Inaccurate ),4.23 (Inaccurate ),25.0 % ,Should Improve
+10,0,Terminal Stance,100.0%,0.34 (Inaccurate ),41.59 (Accurate ),3.33 (Inaccurate ),3.92 (Inaccurate ),25.0 % ,Should Improve
+11,0,Terminal Stance,100.0%,0.51 (Inaccurate ),41.26 (Accurate ),3.16 (Inaccurate ),4.71 (Inaccurate ),25.0 % ,Should Improve
+12,0,Terminal Stance,100.0%,0.79 (Inaccurate ),41.55 (Accurate ),3.28 (Inaccurate ),6.44 (Inaccurate ),25.0 % ,Should Improve
+13,0,Terminal Stance,100.0%,0.86 (Inaccurate ),37.13 (Accurate ),3.26 (Inaccurate ),6.55 (Inaccurate ),25.0 % ,Should Improve
+14,0,Terminal Stance,100.0%,0.56 (Inaccurate ),34.75 (Inaccurate ),3.59 (Inaccurate ),6.01 (Inaccurate ),0.0 % ,Should Improve
+15,0,Terminal Stance,100.0%,0.12 (Inaccurate ),32.38 (Inaccurate ),3.76 (Inaccurate ),5.37 (Inaccurate ),0.0 % ,Should Improve
+16,0,Terminal Stance,100.0%,-0.27 (Inaccurate ),32.53 (Inaccurate ),4.36 (Inaccurate ),5.19 (Inaccurate ),0.0 % ,Should Improve
+17,0,Terminal Stance,100.0%,-0.13 (Inaccurate ),33.84 (Inaccurate ),4.81 (Inaccurate ),7.21 (Inaccurate ),0.0 % ,Should Improve
+18,0,Terminal Stance,100.0%,-0.21 (Inaccurate ),35.84 (Accurate ),4.6 (Inaccurate ),9.54 (Inaccurate ),25.0 % ,Should Improve
+19,0,Terminal Stance,100.0%,-0.72 (Inaccurate ),35.07 (Accurate ),3.74 (Inaccurate ),9.85 (Inaccurate ),25.0 % ,Should Improve
+20,0,Terminal Stance,100.0%,-0.81 (Inaccurate ),34.45 (Inaccurate ),2.8 (Inaccurate ),10.1 (Inaccurate ),0.0 % ,Should Improve
+21,0,Terminal Stance,100.0%,-1.39 (Inaccurate ),32.28 (Inaccurate ),2.46 (Inaccurate ),8.85 (Inaccurate ),0.0 % ,Should Improve
+22,0,Terminal Stance,100.0%,-1.35 (Inaccurate ),32.08 (Inaccurate ),2.13 (Inaccurate ),9.05 (Inaccurate ),0.0 % ,Should Improve
+23,0,Terminal Stance,100.0%,-1.51 (Inaccurate ),30.63 (Inaccurate ),1.65 (Inaccurate ),8.74 (Inaccurate ),0.0 % ,Should Improve
+24,0,Terminal Stance,100.0%,-1.85 (Inaccurate ),29.81 (Inaccurate ),0.88 (Inaccurate ),8.55 (Inaccurate ),0.0 % ,Should Improve
+25,0,Terminal Stance,100.0%,-2.22 (Inaccurate ),28.86 (Inaccurate ),0.1 (Inaccurate ),8.45 (Inaccurate ),0.0 % ,Should Improve
+26,0,Terminal Stance,100.0%,-2.67 (Inaccurate ),26.61 (Inaccurate ),0.55 (Inaccurate ),7.26 (Inaccurate ),0.0 % ,Should Improve
+27,0,Terminal Stance,100.0%,-2.85 (Inaccurate ),25.65 (Inaccurate ),0.23 (Inaccurate ),7.14 (Inaccurate ),0.0 % ,Should Improve
+28,0,Terminal Stance,100.0%,-2.72 (Inaccurate ),26.6 (Inaccurate ),0.22 (Inaccurate ),7.71 (Inaccurate ),0.0 % ,Should Improve
+29,0,Terminal Stance,100.0%,-2.65 (Inaccurate ),25.82 (Inaccurate ),0.47 (Inaccurate ),8.55 (Inaccurate ),0.0 % ,Should Improve
+30,0,Terminal Stance,100.0%,-2.36 (Inaccurate ),24.3 (Inaccurate ),0.22 (Inaccurate ),8.9 (Inaccurate ),0.0 % ,Should Improve
+31,0,Terminal Stance,100.0%,-2.92 (Inaccurate ),21.83 (Inaccurate ),0.06 (Inaccurate ),7.67 (Inaccurate ),0.0 % ,Should Improve
+32,0,Terminal Stance,100.0%,-2.49 (Inaccurate ),21.05 (Inaccurate ),1.58 (Inaccurate ),7.96 (Inaccurate ),0.0 % ,Should Improve
+33,0,Terminal Stance,100.0%,-2.31 (Inaccurate ),18.79 (Inaccurate ),0.83 (Inaccurate ),7.68 (Inaccurate ),0.0 % ,Should Improve
+34,0,Terminal Stance,100.0%,-2.41 (Inaccurate ),18.85 (Inaccurate ),0.88 (Inaccurate ),8.05 (Inaccurate ),0.0 % ,Should Improve
+35,0,Terminal Stance,100.0%,-2.42 (Inaccurate ),17.98 (Inaccurate ),1.08 (Inaccurate ),8.24 (Inaccurate ),0.0 % ,Should Improve
+36,0,Terminal Stance,100.0%,-2.7 (Inaccurate ),15.02 (Inaccurate ),0.61 (Inaccurate ),6.87 (Inaccurate ),0.0 % ,Should Improve
+37,0,Terminal Stance,100.0%,-3.07 (Inaccurate ),11.4 (Inaccurate ),1.91 (Inaccurate ),5.11 (Inaccurate ),0.0 % ,Should Improve
+38,0,Terminal Stance,100.0%,-2.9 (Inaccurate ),11.01 (Inaccurate ),1.11 (Inaccurate ),5.57 (Inaccurate ),0.0 % ,Should Improve
+39,0,Terminal Stance,100.0%,-2.68 (Inaccurate ),7.44 (Inaccurate ),1.43 (Inaccurate ),4.55 (Inaccurate ),0.0 % ,Should Improve
+40,0,Terminal Stance,100.0%,-2.48 (Inaccurate ),7.26 (Inaccurate ),4.32 (Inaccurate ),4.49 (Inaccurate ),0.0 % ,Should Improve
+41,0,Terminal Stance,100.0%,-2.85 (Inaccurate ),7.75 (Inaccurate ),2.95 (Inaccurate ),4.81 (Inaccurate ),0.0 % ,Should Improve
+42,0,Terminal Stance,100.0%,-2.89 (Inaccurate ),5.07 (Inaccurate ),4.35 (Inaccurate ),3.75 (Inaccurate ),0.0 % ,Should Improve
+43,0,Terminal Stance,100.0%,-2.89 (Inaccurate ),2.91 (Inaccurate ),3.01 (Inaccurate ),3.17 (Inaccurate ),0.0 % ,Should Improve
+44,0,Terminal Stance,100.0%,-3.16 (Inaccurate ),5.59 (Inaccurate ),2.66 (Inaccurate ),4.48 (Inaccurate ),0.0 % ,Should Improve
+45,0,Terminal Stance,100.0%,-3.17 (Inaccurate ),4.59 (Inaccurate ),3.46 (Inaccurate ),4.33 (Inaccurate ),0.0 % ,Should Improve
+46,0,Terminal Stance,100.0%,-3.34 (Inaccurate ),3.19 (Inaccurate ),4.07 (Inaccurate ),3.2 (Inaccurate ),0.0 % ,Should Improve
+47,0,Terminal Stance,100.0%,-3.58 (Inaccurate ),3.62 (Inaccurate ),4.23 (Inaccurate ),3.2 (Inaccurate ),0.0 % ,Should Improve
+48,0,Terminal Stance,100.0%,-3.67 (Inaccurate ),3.05 (Inaccurate ),4.88 (Inaccurate ),3.01 (Inaccurate ),0.0 % ,Should Improve
+49,0,Terminal Stance,100.0%,-3.26 (Inaccurate ),3.88 (Inaccurate ),5.26 (Inaccurate ),4.38 (Inaccurate ),0.0 % ,Should Improve
+50,0,Terminal Stance,100.0%,-3.34 (Inaccurate ),3.23 (Inaccurate ),5.89 (Inaccurate ),3.99 (Inaccurate ),0.0 % ,Should Improve
+51,0,Terminal Stance,100.0%,-3.35 (Inaccurate ),3.29 (Inaccurate ),6.01 (Inaccurate ),4.15 (Inaccurate ),0.0 % ,Should Improve
+52,0,Terminal Stance,100.0%,-3.13 (Inaccurate ),3.25 (Inaccurate ),7.14 (Inaccurate ),4.54 (Inaccurate ),0.0 % ,Should Improve
+53,0,Terminal Stance,100.0%,-3.11 (Inaccurate ),4.17 (Inaccurate ),6.32 (Inaccurate ),5.07 (Inaccurate ),0.0 % ,Should Improve
+54,0,Terminal Stance,100.0%,-3.07 (Inaccurate ),4.67 (Inaccurate ),6.05 (Inaccurate ),5.59 (Inaccurate ),0.0 % ,Should Improve
+55,0,Terminal Stance,100.0%,-3.05 (Inaccurate ),3.98 (Inaccurate ),4.88 (Inaccurate ),5.26 (Inaccurate ),0.0 % ,Should Improve
+56,0,Terminal Stance,100.0%,-2.87 (Inaccurate ),4.42 (Inaccurate ),6.24 (Inaccurate ),5.7 (Inaccurate ),0.0 % ,Should Improve
+57,0,Terminal Stance,100.0%,-3.22 (Inaccurate ),3.69 (Inaccurate ),5.94 (Inaccurate ),4.83 (Inaccurate ),0.0 % ,Should Improve
+58,0,Terminal Stance,100.0%,-3.03 (Inaccurate ),5.62 (Inaccurate ),6.4 (Inaccurate ),5.94 (Inaccurate ),0.0 % ,Should Improve
+59,0,Terminal Stance,100.0%,-3.06 (Inaccurate ),5.81 (Inaccurate ),6.25 (Inaccurate ),5.98 (Inaccurate ),0.0 % ,Should Improve
+60,0,Terminal Stance,100.0%,-3.07 (Inaccurate ),5.48 (Inaccurate ),6.1 (Inaccurate ),5.75 (Inaccurate ),0.0 % ,Should Improve
+61,0,Terminal Stance,100.0%,-3.09 (Inaccurate ),5.12 (Inaccurate ),5.6 (Inaccurate ),5.11 (Inaccurate ),0.0 % ,Should Improve
+62,0,Terminal Stance,100.0%,-3.56 (Inaccurate ),4.99 (Inaccurate ),6.63 (Inaccurate ),4.0 (Inaccurate ),0.0 % ,Should Improve
+63,0,Terminal Stance,100.0%,-3.3 (Inaccurate ),6.05 (Inaccurate ),8.15 (Inaccurate ),4.69 (Inaccurate ),0.0 % ,Should Improve
+64,0,Terminal Stance,100.0%,-3.01 (Inaccurate ),7.45 (Inaccurate ),9.13 (Inaccurate ),5.92 (Inaccurate ),0.0 % ,Should Improve
+65,0,Terminal Stance,100.0%,-3.4 (Inaccurate ),7.2 (Inaccurate ),9.29 (Inaccurate ),5.06 (Inaccurate ),0.0 % ,Should Improve
+66,0,Terminal Stance,100.0%,-3.4 (Inaccurate ),7.23 (Inaccurate ),9.61 (Inaccurate ),4.92 (Inaccurate ),0.0 % ,Should Improve
+67,0,Terminal Stance,100.0%,-3.76 (Inaccurate ),6.07 (Inaccurate ),9.31 (Inaccurate ),3.13 (Inaccurate ),0.0 % ,Should Improve
+68,0,Terminal Stance,100.0%,-3.68 (Inaccurate ),6.15 (Inaccurate ),10.94 (Inaccurate ),2.64 (Inaccurate ),0.0 % ,Should Improve
+69,0,Terminal Stance,100.0%,-3.81 (Inaccurate ),6.67 (Inaccurate ),11.4 (Inaccurate ),2.35 (Inaccurate ),0.0 % ,Should Improve
+70,0,Terminal Stance,100.0%,-3.79 (Inaccurate ),7.44 (Inaccurate ),12.07 (Inaccurate ),2.9 (Inaccurate ),0.0 % ,Should Improve
+71,0,Terminal Stance,100.0%,-3.34 (Inaccurate ),7.37 (Inaccurate ),12.33 (Inaccurate ),3.33 (Inaccurate ),0.0 % ,Should Improve
+72,0,Terminal Stance,100.0%,-3.31 (Inaccurate ),6.92 (Inaccurate ),13.02 (Inaccurate ),2.89 (Inaccurate ),0.0 % ,Should Improve
+73,0,Terminal Stance,100.0%,-3.36 (Inaccurate ),6.18 (Inaccurate ),14.83 (Inaccurate ),1.45 (Inaccurate ),0.0 % ,Should Improve
+74,0,Terminal Stance,100.0%,-3.15 (Inaccurate ),6.18 (Inaccurate ),16.52 (Inaccurate ),1.29 (Inaccurate ),0.0 % ,Should Improve
+75,0,Terminal Stance,100.0%,-2.67 (Inaccurate ),7.31 (Inaccurate ),17.72 (Inaccurate ),2.43 (Inaccurate ),0.0 % ,Should Improve
+76,0,Terminal Stance,100.0%,-2.44 (Inaccurate ),7.66 (Inaccurate ),17.61 (Inaccurate ),2.89 (Inaccurate ),0.0 % ,Should Improve
+77,0,Terminal Stance,100.0%,-2.44 (Inaccurate ),7.47 (Inaccurate ),18.64 (Inaccurate ),2.41 (Inaccurate ),0.0 % ,Should Improve
+78,0,Terminal Stance,100.0%,-3.0 (Inaccurate ),6.81 (Inaccurate ),20.0 (Inaccurate ),0.8 (Inaccurate ),0.0 % ,Should Improve
+79,0,Terminal Stance,100.0%,-3.2 (Inaccurate ),6.85 (Inaccurate ),19.64 (Inaccurate ),0.04 (Inaccurate ),0.0 % ,Should Improve
+80,0,Terminal Stance,100.0%,-2.91 (Inaccurate ),6.61 (Inaccurate ),19.61 (Inaccurate ),0.27 (Inaccurate ),0.0 % ,Should Improve
+81,0,Terminal Stance,100.0%,-2.66 (Inaccurate ),6.86 (Inaccurate ),18.21 (Inaccurate ),0.13 (Inaccurate ),0.0 % ,Should Improve
+82,0,Terminal Stance,100.0%,-2.48 (Inaccurate ),6.05 (Inaccurate ),18.28 (Inaccurate ),0.37 (Inaccurate ),0.0 % ,Should Improve
+83,0,Terminal Stance,100.0%,-2.45 (Inaccurate ),5.82 (Inaccurate ),18.28 (Inaccurate ),0.55 (Inaccurate ),0.0 % ,Should Improve
+84,0,Terminal Stance,100.0%,-2.06 (Inaccurate ),6.72 (Inaccurate ),17.31 (Inaccurate ),0.22 (Inaccurate ),0.0 % ,Should Improve
+85,0,Terminal Stance,100.0%,-1.77 (Inaccurate ),6.76 (Inaccurate ),16.88 (Inaccurate ),0.16 (Inaccurate ),0.0 % ,Should Improve
+86,0,Terminal Stance,100.0%,-1.13 (Inaccurate ),8.19 (Inaccurate ),17.33 (Inaccurate ),1.07 (Inaccurate ),0.0 % ,Should Improve
+87,0,Terminal Stance,100.0%,-0.59 (Inaccurate ),9.16 (Inaccurate ),17.02 (Inaccurate ),2.1 (Inaccurate ),0.0 % ,Should Improve
+88,0,Terminal Stance,100.0%,-0.44 (Inaccurate ),9.39 (Inaccurate ),16.77 (Inaccurate ),2.5 (Inaccurate ),0.0 % ,Should Improve
+89,0,Terminal Stance,100.0%,-0.09 (Inaccurate ),10.09 (Inaccurate ),15.37 (Inaccurate ),2.85 (Inaccurate ),0.0 % ,Should Improve
+90,0,Terminal Stance,100.0%,0.19 (Inaccurate ),10.75 (Inaccurate ),17.16 (Inaccurate ),3.13 (Inaccurate ),0.0 % ,Should Improve
+91,0,Terminal Stance,100.0%,0.53 (Inaccurate ),11.08 (Inaccurate ),20.41 (Inaccurate ),2.95 (Inaccurate ),0.0 % ,Should Improve
+92,0,Terminal Stance,100.0%,0.89 (Inaccurate ),10.94 (Inaccurate ),23.57 (Inaccurate ),3.0 (Inaccurate ),0.0 % ,Should Improve
+93,0,Terminal Stance,100.0%,1.16 (Inaccurate ),10.73 (Inaccurate ),25.79 (Inaccurate ),2.84 (Inaccurate ),0.0 % ,Should Improve
+94,0,Terminal Stance,100.0%,1.13 (Inaccurate ),11.04 (Inaccurate ),26.79 (Inaccurate ),2.79 (Inaccurate ),0.0 % ,Should Improve
+95,0,Terminal Stance,100.0%,0.98 (Inaccurate ),10.24 (Inaccurate ),28.15 (Inaccurate ),1.71 (Inaccurate ),0.0 % ,Should Improve
+96,0,Terminal Stance,100.0%,1.14 (Inaccurate ),9.46 (Inaccurate ),31.39 (Inaccurate ),1.08 (Inaccurate ),0.0 % ,Should Improve
+97,0,Terminal Stance,100.0%,1.23 (Inaccurate ),9.67 (Inaccurate ),29.21 (Inaccurate ),0.23 (Inaccurate ),0.0 % ,Should Improve
+98,0,Terminal Stance,100.0%,1.16 (Inaccurate ),10.59 (Inaccurate ),24.76 (Inaccurate ),0.11 (Inaccurate ),0.0 % ,Should Improve
+99,0,Terminal Stance,100.0%,1.5 (Inaccurate ),10.03 (Inaccurate ),19.39 (Inaccurate ),0.73 (Inaccurate ),0.0 % ,Should Improve
+100,0,Terminal Stance,100.0%,1.32 (Inaccurate ),9.73 (Inaccurate ),20.37 (Inaccurate ),1.23 (Inaccurate ),0.0 % ,Should Improve
+101,0,Terminal Stance,100.0%,1.38 (Inaccurate ),9.15 (Inaccurate ),21.16 (Inaccurate ),1.76 (Inaccurate ),0.0 % ,Should Improve
+102,0,Terminal Stance,100.0%,1.57 (Inaccurate ),8.5 (Inaccurate ),21.6 (Inaccurate ),2.38 (Inaccurate ),0.0 % ,Should Improve
+103,0,Terminal Stance,100.0%,1.9 (Inaccurate ),8.91 (Inaccurate ),23.39 (Inaccurate ),2.04 (Inaccurate ),0.0 % ,Should Improve
+104,0,Terminal Stance,100.0%,2.18 (Inaccurate ),7.34 (Inaccurate ),25.34 (Inaccurate ),3.22 (Inaccurate ),0.0 % ,Should Improve
+105,0,Terminal Stance,100.0%,2.72 (Inaccurate ),6.84 (Inaccurate ),26.92 (Inaccurate ),3.16 (Inaccurate ),0.0 % ,Should Improve
+106,0,Terminal Stance,100.0%,3.28 (Inaccurate ),7.03 (Inaccurate ),27.65 (Inaccurate ),2.43 (Inaccurate ),0.0 % ,Should Improve
+107,0,Terminal Stance,100.0%,3.5 (Inaccurate ),6.44 (Inaccurate ),28.23 (Inaccurate ),2.76 (Inaccurate ),0.0 % ,Should Improve
+108,0,Terminal Stance,100.0%,3.91 (Inaccurate ),5.83 (Inaccurate ),27.58 (Inaccurate ),2.98 (Inaccurate ),0.0 % ,Should Improve
+109,0,Terminal Stance,100.0%,4.57 (Accurate ),4.59 (Inaccurate ),28.01 (Inaccurate ),3.46 (Inaccurate ),25.0 % ,Should Improve
+110,0,Terminal Stance,100.0%,5.14 (Accurate ),4.01 (Inaccurate ),27.31 (Inaccurate ),3.56 (Inaccurate ),25.0 % ,Should Improve
+111,0,Terminal Stance,100.0%,5.49 (Accurate ),3.82 (Inaccurate ),26.45 (Inaccurate ),3.67 (Inaccurate ),25.0 % ,Should Improve
+112,0,Terminal Stance,100.0%,5.53 (Accurate ),3.77 (Inaccurate ),25.62 (Inaccurate ),3.71 (Inaccurate ),25.0 % ,Should Improve
+113,0,Terminal Stance,100.0%,5.96 (Accurate ),3.37 (Inaccurate ),25.48 (Inaccurate ),3.69 (Inaccurate ),25.0 % ,Should Improve
+114,0,Terminal Stance,100.0%,6.14 (Accurate ),3.63 (Inaccurate ),24.48 (Inaccurate ),3.68 (Inaccurate ),25.0 % ,Should Improve
+115,0,Terminal Stance,100.0%,6.92 (Accurate ),3.98 (Inaccurate ),23.49 (Inaccurate ),3.16 (Inaccurate ),25.0 % ,Should Improve
+116,0,Terminal Stance,100.0%,7.04 (Accurate ),3.89 (Inaccurate ),22.74 (Inaccurate ),3.64 (Inaccurate ),25.0 % ,Should Improve
+117,0,Terminal Stance,100.0%,7.49 (Accurate ),4.77 (Inaccurate ),21.41 (Inaccurate ),3.06 (Inaccurate ),25.0 % ,Should Improve
+118,0,Terminal Stance,100.0%,7.21 (Accurate ),4.87 (Inaccurate ),21.0 (Inaccurate ),3.44 (Inaccurate ),25.0 % ,Should Improve
+119,0,Terminal Stance,100.0%,7.37 (Accurate ),4.68 (Inaccurate ),20.35 (Inaccurate ),3.74 (Inaccurate ),25.0 % ,Should Improve
+120,0,Terminal Stance,100.0%,7.81 (Accurate ),4.62 (Inaccurate ),18.96 (Inaccurate ),3.59 (Inaccurate ),25.0 % ,Should Improve
+121,0,Terminal Stance,100.0%,7.93 (Accurate ),3.9 (Inaccurate ),17.04 (Inaccurate ),4.26 (Inaccurate ),25.0 % ,Should Improve
+122,0,Terminal Stance,100.0%,7.7 (Accurate ),3.01 (Inaccurate ),15.11 (Inaccurate ),5.5 (Inaccurate ),25.0 % ,Should Improve
+123,0,Terminal Stance,100.0%,8.15 (Accurate ),2.7 (Inaccurate ),14.88 (Inaccurate ),5.49 (Inaccurate ),25.0 % ,Should Improve
+124,0,Terminal Stance,100.0%,8.18 (Accurate ),2.92 (Inaccurate ),15.12 (Inaccurate ),5.38 (Inaccurate ),25.0 % ,Should Improve
+125,0,Terminal Stance,100.0%,7.94 (Accurate ),2.98 (Inaccurate ),13.7 (Inaccurate ),5.88 (Inaccurate ),25.0 % ,Should Improve
+126,0,Terminal Stance,100.0%,8.0 (Accurate ),3.57 (Inaccurate ),12.34 (Inaccurate ),5.79 (Inaccurate ),25.0 % ,Should Improve
+127,0,Terminal Stance,100.0%,7.96 (Accurate ),3.08 (Inaccurate ),11.01 (Inaccurate ),6.57 (Inaccurate ),25.0 % ,Should Improve
+128,0,Terminal Stance,100.0%,7.82 (Accurate ),3.64 (Inaccurate ),10.1 (Inaccurate ),6.95 (Inaccurate ),25.0 % ,Should Improve
+129,0,Terminal Stance,100.0%,7.84 (Accurate ),3.61 (Inaccurate ),9.8 (Inaccurate ),7.39 (Inaccurate ),25.0 % ,Should Improve
+130,0,Terminal Stance,100.0%,7.62 (Accurate ),3.98 (Inaccurate ),9.15 (Inaccurate ),7.37 (Inaccurate ),25.0 % ,Should Improve
+131,0,Terminal Stance,100.0%,7.57 (Accurate ),3.65 (Inaccurate ),8.74 (Inaccurate ),7.78 (Inaccurate ),25.0 % ,Should Improve
+132,0,Terminal Stance,100.0%,7.47 (Accurate ),3.91 (Inaccurate ),7.53 (Inaccurate ),8.22 (Inaccurate ),25.0 % ,Should Improve
+133,0,Terminal Stance,100.0%,7.58 (Accurate ),4.6 (Inaccurate ),6.14 (Inaccurate ),8.21 (Inaccurate ),25.0 % ,Should Improve
+134,0,Terminal Stance,100.0%,7.68 (Accurate ),5.24 (Inaccurate ),4.95 (Inaccurate ),8.1 (Inaccurate ),25.0 % ,Should Improve
+135,0,Terminal Stance,100.0%,7.75 (Accurate ),5.79 (Inaccurate ),4.43 (Inaccurate ),8.16 (Inaccurate ),25.0 % ,Should Improve
+136,0,Terminal Stance,100.0%,7.32 (Accurate ),6.09 (Inaccurate ),3.72 (Inaccurate ),8.51 (Inaccurate ),25.0 % ,Should Improve
+137,0,Terminal Stance,100.0%,7.35 (Accurate ),6.54 (Inaccurate ),3.92 (Inaccurate ),8.58 (Inaccurate ),25.0 % ,Should Improve
+138,0,Terminal Stance,100.0%,7.27 (Accurate ),6.51 (Inaccurate ),3.35 (Inaccurate ),9.02 (Inaccurate ),25.0 % ,Should Improve
+139,0,Terminal Stance,100.0%,7.65 (Accurate ),6.3 (Inaccurate ),4.28 (Inaccurate ),9.3 (Inaccurate ),25.0 % ,Should Improve
+140,0,Terminal Stance,100.0%,7.93 (Accurate ),6.64 (Inaccurate ),4.8 (Inaccurate ),9.1 (Inaccurate ),25.0 % ,Should Improve
+141,0,Terminal Stance,100.0%,7.76 (Accurate ),7.3 (Inaccurate ),4.64 (Inaccurate ),9.31 (Inaccurate ),25.0 % ,Should Improve
+142,0,Terminal Stance,100.0%,7.59 (Accurate ),9.35 (Inaccurate ),3.63 (Inaccurate ),8.67 (Inaccurate ),25.0 % ,Should Improve
+143,0,Terminal Stance,100.0%,7.54 (Accurate ),11.24 (Inaccurate ),4.04 (Inaccurate ),8.1 (Inaccurate ),25.0 % ,Should Improve
+144,0,Terminal Stance,100.0%,7.73 (Accurate ),10.8 (Inaccurate ),4.32 (Inaccurate ),8.65 (Inaccurate ),25.0 % ,Should Improve
+145,0,Terminal Stance,100.0%,7.86 (Accurate ),9.76 (Inaccurate ),5.62 (Inaccurate ),9.86 (Inaccurate ),25.0 % ,Should Improve
+146,0,Terminal Stance,100.0%,7.94 (Accurate ),10.61 (Inaccurate ),5.91 (Inaccurate ),9.99 (Inaccurate ),25.0 % ,Should Improve
+147,0,Terminal Stance,100.0%,8.14 (Accurate ),11.87 (Inaccurate ),5.8 (Inaccurate ),9.51 (Inaccurate ),25.0 % ,Should Improve
+148,0,Terminal Stance,100.0%,8.33 (Accurate ),14.03 (Inaccurate ),5.79 (Inaccurate ),8.02 (Inaccurate ),25.0 % ,Should Improve
+149,0,Terminal Stance,100.0%,8.22 (Accurate ),14.21 (Inaccurate ),6.37 (Inaccurate ),8.62 (Inaccurate ),25.0 % ,Should Improve
+150,0,Terminal Stance,100.0%,7.7 (Accurate ),14.34 (Inaccurate ),6.32 (Inaccurate ),9.72 (Inaccurate ),25.0 % ,Should Improve
+151,0,Terminal Stance,100.0%,7.12 (Accurate ),13.86 (Inaccurate ),7.2 (Inaccurate ),11.72 (Inaccurate ),25.0 % ,Should Improve
+152,0,Terminal Stance,100.0%,7.12 (Accurate ),15.27 (Inaccurate ),8.17 (Inaccurate ),11.35 (Inaccurate ),25.0 % ,Should Improve
+153,0,Terminal Stance,100.0%,6.63 (Accurate ),17.09 (Inaccurate ),8.98 (Inaccurate ),11.38 (Inaccurate ),25.0 % ,Should Improve
+154,0,Terminal Stance,100.0%,6.39 (Accurate ),18.15 (Inaccurate ),8.58 (Inaccurate ),11.07 (Inaccurate ),25.0 % ,Should Improve
+155,0,Terminal Stance,100.0%,5.67 (Accurate ),18.94 (Inaccurate ),8.81 (Inaccurate ),11.75 (Inaccurate ),25.0 % ,Should Improve
+156,0,Terminal Stance,100.0%,5.71 (Accurate ),19.87 (Inaccurate ),8.95 (Inaccurate ),11.13 (Inaccurate ),25.0 % ,Should Improve
+157,0,Terminal Stance,100.0%,5.6 (Accurate ),20.37 (Inaccurate ),8.92 (Inaccurate ),11.07 (Inaccurate ),25.0 % ,Should Improve
+158,0,Terminal Stance,100.0%,5.37 (Accurate ),21.2 (Inaccurate ),10.38 (Inaccurate ),10.95 (Inaccurate ),25.0 % ,Should Improve
+159,0,Terminal Stance,100.0%,5.34 (Accurate ),22.46 (Inaccurate ),9.63 (Inaccurate ),10.29 (Inaccurate ),25.0 % ,Should Improve
+160,0,Terminal Stance,100.0%,5.36 (Accurate ),23.04 (Inaccurate ),8.48 (Inaccurate ),10.02 (Inaccurate ),25.0 % ,Should Improve
+161,0,Terminal Stance,100.0%,5.3 (Accurate ),24.2 (Inaccurate ),8.62 (Inaccurate ),9.76 (Inaccurate ),25.0 % ,Should Improve
+162,0,Terminal Stance,100.0%,4.82 (Accurate ),24.5 (Inaccurate ),9.47 (Inaccurate ),10.48 (Inaccurate ),25.0 % ,Should Improve
+163,0,Terminal Stance,100.0%,4.93 (Accurate ),26.21 (Inaccurate ),10.19 (Inaccurate ),9.61 (Inaccurate ),25.0 % ,Should Improve
+164,0,Terminal Stance,100.0%,5.19 (Accurate ),27.81 (Inaccurate ),9.9 (Inaccurate ),8.25 (Inaccurate ),25.0 % ,Should Improve
+165,0,Terminal Stance,100.0%,5.11 (Accurate ),30.15 (Inaccurate ),10.07 (Inaccurate ),7.14 (Inaccurate ),25.0 % ,Should Improve
+166,0,Terminal Stance,100.0%,4.53 (Accurate ),30.35 (Inaccurate ),10.68 (Inaccurate ),8.13 (Inaccurate ),25.0 % ,Should Improve
+167,0,Terminal Stance,100.0%,4.5 (Accurate ),30.56 (Inaccurate ),11.16 (Inaccurate ),8.21 (Inaccurate ),25.0 % ,Should Improve
+168,0,Terminal Stance,100.0%,4.52 (Accurate ),32.23 (Inaccurate ),10.79 (Inaccurate ),7.31 (Inaccurate ),25.0 % ,Should Improve
+169,0,Terminal Stance,100.0%,4.69 (Accurate ),34.6 (Inaccurate ),8.43 (Inaccurate ),5.62 (Inaccurate ),25.0 % ,Should Improve
+170,0,Terminal Stance,100.0%,4.8 (Accurate ),35.92 (Accurate ),7.72 (Inaccurate ),4.58 (Inaccurate ),50.0 % ,Satisfactory
+171,0,Terminal Stance,100.0%,4.85 (Accurate ),37.72 (Accurate ),7.98 (Inaccurate ),3.35 (Inaccurate ),50.0 % ,Satisfactory
+172,0,Terminal Stance,100.0%,4.68 (Accurate ),37.89 (Accurate ),8.72 (Inaccurate ),3.57 (Inaccurate ),50.0 % ,Satisfactory
+173,0,Terminal Stance,100.0%,4.77 (Accurate ),38.72 (Accurate ),8.06 (Inaccurate ),2.75 (Inaccurate ),50.0 % ,Satisfactory
+174,0,Terminal Stance,100.0%,4.77 (Accurate ),39.22 (Accurate ),7.26 (Inaccurate ),2.51 (Inaccurate ),50.0 % ,Satisfactory
+175,0,Terminal Stance,100.0%,4.6 (Accurate ),39.93 (Accurate ),7.86 (Inaccurate ),1.55 (Inaccurate ),50.0 % ,Satisfactory
+176,0,Terminal Stance,100.0%,4.44 (Accurate ),39.43 (Accurate ),7.78 (Inaccurate ),1.9 (Inaccurate ),50.0 % ,Satisfactory
+177,0,Terminal Stance,100.0%,4.68 (Accurate ),40.98 (Accurate ),8.2 (Inaccurate ),0.08 (Inaccurate ),50.0 % ,Satisfactory
+178,0,Terminal Stance,100.0%,4.63 (Accurate ),40.25 (Accurate ),8.8 (Inaccurate ),0.78 (Inaccurate ),50.0 % ,Satisfactory
+179,0,Terminal Stance,100.0%,4.46 (Accurate ),40.1 (Accurate ),8.48 (Inaccurate ),0.51 (Inaccurate ),50.0 % ,Satisfactory
+180,0,Terminal Stance,100.0%,4.13 (Accurate ),41.45 (Accurate ),7.72 (Inaccurate ),0.69 (Inaccurate ),50.0 % ,Satisfactory
+181,0,Terminal Stance,100.0%,3.79 (Inaccurate ),42.67 (Accurate ),6.9 (Inaccurate ),2.02 (Inaccurate ),25.0 % ,Should Improve
+182,0,Terminal Stance,100.0%,3.63 (Inaccurate ),43.24 (Accurate ),5.62 (Inaccurate ),2.69 (Inaccurate ),25.0 % ,Should Improve
+183,0,Terminal Stance,100.0%,3.93 (Inaccurate ),42.71 (Accurate ),5.72 (Inaccurate ),3.37 (Inaccurate ),25.0 % ,Should Improve
+184,0,Terminal Stance,100.0%,3.7 (Inaccurate ),42.08 (Accurate ),6.04 (Inaccurate ),2.75 (Inaccurate ),25.0 % ,Should Improve
+185,0,Terminal Stance,100.0%,3.57 (Inaccurate ),40.03 (Accurate ),6.33 (Inaccurate ),2.24 (Inaccurate ),25.0 % ,Should Improve
+186,0,Terminal Stance,100.0%,3.89 (Inaccurate ),40.09 (Accurate ),7.35 (Inaccurate ),4.06 (Inaccurate ),25.0 % ,Should Improve
+187,0,Terminal Stance,100.0%,3.69 (Inaccurate ),37.34 (Accurate ),8.37 (Inaccurate ),5.01 (Inaccurate ),25.0 % ,Should Improve
+188,0,Terminal Stance,100.0%,3.7 (Inaccurate ),33.7 (Inaccurate ),8.53 (Inaccurate ),5.35 (Inaccurate ),0.0 % ,Should Improve
+189,0,Terminal Stance,100.0%,3.59 (Inaccurate ),31.56 (Inaccurate ),11.73 (Inaccurate ),5.52 (Inaccurate ),0.0 % ,Should Improve
+190,0,Terminal Stance,100.0%,3.46 (Inaccurate ),30.85 (Inaccurate ),13.66 (Inaccurate ),4.9 (Inaccurate ),0.0 % ,Should Improve
+191,0,Terminal Stance,100.0%,3.55 (Inaccurate ),31.84 (Inaccurate ),13.6 (Inaccurate ),6.0 (Inaccurate ),0.0 % ,Should Improve
+192,0,Terminal Stance,100.0%,3.17 (Inaccurate ),34.45 (Inaccurate ),12.55 (Inaccurate ),7.49 (Inaccurate ),0.0 % ,Should Improve
+193,0,Terminal Stance,100.0%,2.78 (Inaccurate ),35.17 (Accurate ),10.25 (Inaccurate ),9.26 (Inaccurate ),25.0 % ,Should Improve
+194,0,Terminal Stance,100.0%,2.93 (Inaccurate ),33.57 (Inaccurate ),9.09 (Inaccurate ),9.57 (Inaccurate ),0.0 % ,Should Improve
+195,0,Terminal Stance,100.0%,2.91 (Inaccurate ),33.47 (Inaccurate ),7.87 (Inaccurate ),10.05 (Inaccurate ),0.0 % ,Should Improve
+196,0,Terminal Stance,100.0%,3.22 (Inaccurate ),33.21 (Inaccurate ),7.82 (Inaccurate ),10.07 (Inaccurate ),0.0 % ,Should Improve
+197,0,Terminal Stance,100.0%,3.15 (Inaccurate ),33.39 (Inaccurate ),6.89 (Inaccurate ),10.35 (Inaccurate ),0.0 % ,Should Improve
+198,0,Terminal Stance,100.0%,3.27 (Inaccurate ),33.0 (Inaccurate ),6.47 (Inaccurate ),10.81 (Inaccurate ),0.0 % ,Should Improve
+199,0,Terminal Stance,100.0%,2.84 (Inaccurate ),30.64 (Inaccurate ),6.39 (Inaccurate ),10.88 (Inaccurate ),0.0 % ,Should Improve
+200,0,Terminal Stance,100.0%,2.95 (Inaccurate ),29.25 (Inaccurate ),6.12 (Inaccurate ),11.84 (Inaccurate ),0.0 % ,Should Improve
+201,0,Terminal Stance,100.0%,2.59 (Inaccurate ),28.84 (Inaccurate ),5.76 (Inaccurate ),12.15 (Inaccurate ),0.0 % ,Should Improve
+202,0,Terminal Stance,100.0%,2.89 (Inaccurate ),29.46 (Inaccurate ),5.96 (Inaccurate ),13.02 (Inaccurate ),0.0 % ,Should Improve
+203,0,Terminal Stance,100.0%,2.55 (Inaccurate ),29.25 (Inaccurate ),5.23 (Inaccurate ),13.1 (Inaccurate ),0.0 % ,Should Improve
+204,0,Terminal Stance,100.0%,2.42 (Inaccurate ),28.59 (Inaccurate ),4.76 (Inaccurate ),13.54 (Inaccurate ),0.0 % ,Should Improve
+205,0,Terminal Stance,100.0%,2.02 (Inaccurate ),26.35 (Inaccurate ),2.62 (Inaccurate ),13.29 (Inaccurate ),0.0 % ,Should Improve
+206,0,Terminal Stance,100.0%,1.98 (Inaccurate ),24.97 (Inaccurate ),2.39 (Inaccurate ),13.06 (Inaccurate ),0.0 % ,Should Improve
+207,0,Terminal Stance,100.0%,1.81 (Inaccurate ),23.42 (Inaccurate ),2.29 (Inaccurate ),12.85 (Inaccurate ),0.0 % ,Should Improve
+208,0,Terminal Stance,100.0%,1.89 (Inaccurate ),22.7 (Inaccurate ),2.87 (Inaccurate ),12.78 (Inaccurate ),0.0 % ,Should Improve
+209,0,Terminal Stance,100.0%,1.64 (Inaccurate ),21.15 (Inaccurate ),2.26 (Inaccurate ),12.52 (Inaccurate ),0.0 % ,Should Improve
+210,0,Terminal Stance,100.0%,1.18 (Inaccurate ),19.63 (Inaccurate ),2.06 (Inaccurate ),11.84 (Inaccurate ),0.0 % ,Should Improve
+211,0,Terminal Stance,100.0%,1.28 (Inaccurate ),16.74 (Inaccurate ),0.05 (Inaccurate ),11.85 (Inaccurate ),0.0 % ,Should Improve
+212,0,Terminal Stance,100.0%,1.23 (Inaccurate ),15.9 (Inaccurate ),0.87 (Inaccurate ),12.14 (Inaccurate ),0.0 % ,Should Improve
+213,0,Terminal Stance,100.0%,0.89 (Inaccurate ),14.57 (Inaccurate ),1.54 (Inaccurate ),11.54 (Inaccurate ),0.0 % ,Should Improve
+214,0,Terminal Stance,100.0%,0.88 (Inaccurate ),14.83 (Inaccurate ),0.96 (Inaccurate ),11.97 (Inaccurate ),0.0 % ,Should Improve
+215,0,Terminal Stance,100.0%,0.79 (Inaccurate ),14.6 (Inaccurate ),0.61 (Inaccurate ),12.22 (Inaccurate ),0.0 % ,Should Improve
+216,0,Terminal Stance,100.0%,0.75 (Inaccurate ),13.74 (Inaccurate ),0.86 (Inaccurate ),12.19 (Inaccurate ),0.0 % ,Should Improve
+217,0,Terminal Stance,100.0%,0.72 (Inaccurate ),10.77 (Inaccurate ),0.54 (Inaccurate ),11.75 (Inaccurate ),0.0 % ,Should Improve
+218,0,Terminal Stance,100.0%,0.9 (Inaccurate ),9.99 (Inaccurate ),0.42 (Inaccurate ),12.41 (Inaccurate ),0.0 % ,Should Improve
+219,0,Terminal Stance,100.0%,0.71 (Inaccurate ),8.89 (Inaccurate ),0.55 (Inaccurate ),11.82 (Inaccurate ),0.0 % ,Should Improve
+220,0,Terminal Stance,100.0%,0.57 (Inaccurate ),8.07 (Inaccurate ),2.51 (Inaccurate ),11.2 (Inaccurate ),0.0 % ,Should Improve
+221,0,Terminal Stance,100.0%,1.04 (Inaccurate ),7.93 (Inaccurate ),2.44 (Inaccurate ),12.26 (Inaccurate ),0.0 % ,Should Improve
+222,0,Terminal Stance,100.0%,0.78 (Inaccurate ),6.41 (Inaccurate ),2.54 (Inaccurate ),11.32 (Inaccurate ),0.0 % ,Should Improve
+223,0,Terminal Stance,100.0%,0.66 (Inaccurate ),4.52 (Inaccurate ),1.82 (Inaccurate ),10.7 (Inaccurate ),0.0 % ,Should Improve
+224,0,Terminal Stance,100.0%,0.48 (Inaccurate ),4.08 (Inaccurate ),3.46 (Inaccurate ),10.36 (Inaccurate ),0.0 % ,Should Improve
+225,0,Terminal Stance,100.0%,0.31 (Inaccurate ),3.16 (Inaccurate ),3.86 (Inaccurate ),9.93 (Inaccurate ),0.0 % ,Should Improve
+226,0,Terminal Stance,100.0%,0.57 (Inaccurate ),3.82 (Inaccurate ),4.64 (Inaccurate ),10.61 (Inaccurate ),0.0 % ,Should Improve
+227,0,Terminal Stance,100.0%,0.94 (Inaccurate ),3.93 (Inaccurate ),5.2 (Inaccurate ),11.59 (Inaccurate ),0.0 % ,Should Improve
+228,0,Terminal Stance,100.0%,0.84 (Inaccurate ),3.62 (Inaccurate ),4.81 (Inaccurate ),11.22 (Inaccurate ),0.0 % ,Should Improve
+229,0,Terminal Stance,100.0%,1.07 (Inaccurate ),3.69 (Inaccurate ),4.45 (Inaccurate ),11.73 (Inaccurate ),0.0 % ,Should Improve
+230,0,Terminal Stance,100.0%,1.05 (Inaccurate ),4.25 (Inaccurate ),4.3 (Inaccurate ),11.9 (Inaccurate ),0.0 % ,Should Improve
+231,0,Terminal Stance,100.0%,1.01 (Inaccurate ),3.48 (Inaccurate ),4.9 (Inaccurate ),11.35 (Inaccurate ),0.0 % ,Should Improve
+232,0,Terminal Stance,100.0%,1.19 (Inaccurate ),4.69 (Inaccurate ),6.28 (Inaccurate ),12.43 (Inaccurate ),0.0 % ,Should Improve
+233,0,Terminal Stance,100.0%,0.85 (Inaccurate ),3.75 (Inaccurate ),5.94 (Inaccurate ),11.31 (Inaccurate ),0.0 % ,Should Improve
+234,0,Terminal Stance,100.0%,0.78 (Inaccurate ),3.74 (Inaccurate ),5.91 (Inaccurate ),11.11 (Inaccurate ),0.0 % ,Should Improve
+235,0,Terminal Stance,100.0%,1.35 (Inaccurate ),4.15 (Inaccurate ),5.26 (Inaccurate ),12.04 (Inaccurate ),0.0 % ,Should Improve
+236,0,Terminal Stance,100.0%,1.21 (Inaccurate ),4.28 (Inaccurate ),6.03 (Inaccurate ),11.83 (Inaccurate ),0.0 % ,Should Improve
+237,0,Terminal Stance,100.0%,1.21 (Inaccurate ),4.3 (Inaccurate ),6.72 (Inaccurate ),11.77 (Inaccurate ),0.0 % ,Should Improve
+238,0,Terminal Stance,100.0%,1.63 (Inaccurate ),4.53 (Inaccurate ),8.03 (Inaccurate ),12.67 (Inaccurate ),0.0 % ,Should Improve
+239,0,Terminal Stance,100.0%,1.55 (Inaccurate ),4.44 (Inaccurate ),8.32 (Inaccurate ),12.33 (Inaccurate ),0.0 % ,Should Improve
+240,0,Terminal Stance,100.0%,1.43 (Inaccurate ),4.37 (Inaccurate ),7.84 (Inaccurate ),11.78 (Inaccurate ),0.0 % ,Should Improve
+241,0,Terminal Stance,100.0%,1.21 (Inaccurate ),3.77 (Inaccurate ),7.2 (Inaccurate ),10.51 (Inaccurate ),0.0 % ,Should Improve
+242,0,Terminal Stance,100.0%,1.32 (Inaccurate ),4.3 (Inaccurate ),9.08 (Inaccurate ),10.51 (Inaccurate ),0.0 % ,Should Improve
+243,0,Terminal Stance,100.0%,1.49 (Inaccurate ),3.39 (Inaccurate ),11.2 (Inaccurate ),9.91 (Inaccurate ),0.0 % ,Should Improve
+244,0,Terminal Stance,100.0%,1.92 (Inaccurate ),3.74 (Inaccurate ),13.08 (Inaccurate ),10.53 (Inaccurate ),0.0 % ,Should Improve
+245,0,Terminal Stance,100.0%,1.78 (Inaccurate ),3.7 (Inaccurate ),13.5 (Inaccurate ),9.86 (Inaccurate ),0.0 % ,Should Improve
+246,0,Terminal Stance,100.0%,1.5 (Inaccurate ),3.67 (Inaccurate ),13.95 (Inaccurate ),8.91 (Inaccurate ),0.0 % ,Should Improve
+247,0,Terminal Stance,100.0%,1.86 (Inaccurate ),5.3 (Inaccurate ),15.2 (Inaccurate ),9.19 (Inaccurate ),0.0 % ,Should Improve
+248,0,Terminal Stance,100.0%,2.12 (Inaccurate ),5.25 (Inaccurate ),17.54 (Inaccurate ),8.74 (Inaccurate ),0.0 % ,Should Improve
+249,0,Terminal Stance,100.0%,2.2 (Inaccurate ),5.65 (Inaccurate ),18.12 (Inaccurate ),8.56 (Inaccurate ),0.0 % ,Should Improve
+250,0,Terminal Stance,100.0%,2.32 (Inaccurate ),4.87 (Inaccurate ),19.93 (Inaccurate ),7.99 (Inaccurate ),0.0 % ,Should Improve
+251,0,Terminal Stance,100.0%,2.33 (Inaccurate ),5.88 (Inaccurate ),20.77 (Inaccurate ),8.43 (Inaccurate ),0.0 % ,Should Improve
+252,0,Terminal Stance,100.0%,2.52 (Inaccurate ),6.49 (Inaccurate ),21.52 (Inaccurate ),8.57 (Inaccurate ),0.0 % ,Should Improve
+253,0,Terminal Stance,100.0%,2.34 (Inaccurate ),8.79 (Inaccurate ),23.95 (Inaccurate ),8.84 (Inaccurate ),0.0 % ,Should Improve
+254,0,Terminal Stance,100.0%,2.65 (Inaccurate ),8.89 (Inaccurate ),24.77 (Inaccurate ),8.85 (Inaccurate ),0.0 % ,Should Improve
+255,0,Terminal Stance,100.0%,2.98 (Inaccurate ),8.95 (Inaccurate ),25.71 (Inaccurate ),8.61 (Inaccurate ),0.0 % ,Should Improve
+256,0,Terminal Stance,100.0%,2.75 (Inaccurate ),8.32 (Inaccurate ),25.39 (Inaccurate ),7.77 (Inaccurate ),0.0 % ,Should Improve
+257,0,Terminal Stance,100.0%,3.29 (Inaccurate ),8.69 (Inaccurate ),25.28 (Inaccurate ),8.22 (Inaccurate ),0.0 % ,Should Improve
+258,0,Terminal Stance,100.0%,3.36 (Inaccurate ),10.19 (Inaccurate ),25.48 (Inaccurate ),8.75 (Inaccurate ),0.0 % ,Should Improve
+259,0,Terminal Stance,100.0%,3.73 (Inaccurate ),12.26 (Inaccurate ),27.25 (Inaccurate ),9.85 (Inaccurate ),0.0 % ,Should Improve
+260,0,Terminal Stance,100.0%,4.1 (Accurate ),12.81 (Inaccurate ),27.47 (Inaccurate ),10.36 (Inaccurate ),25.0 % ,Should Improve
+261,0,Terminal Stance,100.0%,4.11 (Accurate ),13.02 (Inaccurate ),28.11 (Inaccurate ),10.09 (Inaccurate ),25.0 % ,Should Improve
+262,0,Terminal Stance,100.0%,4.04 (Accurate ),12.74 (Inaccurate ),29.0 (Inaccurate ),9.71 (Inaccurate ),25.0 % ,Should Improve
+263,0,Terminal Stance,100.0%,4.01 (Accurate ),12.32 (Inaccurate ),28.69 (Inaccurate ),8.86 (Inaccurate ),25.0 % ,Should Improve
+264,0,Terminal Stance,100.0%,4.05 (Accurate ),11.64 (Inaccurate ),28.09 (Inaccurate ),7.76 (Inaccurate ),25.0 % ,Should Improve
+265,0,Terminal Stance,100.0%,4.55 (Accurate ),11.48 (Inaccurate ),28.11 (Inaccurate ),6.98 (Inaccurate ),25.0 % ,Should Improve
+266,0,Terminal Stance,100.0%,5.29 (Accurate ),12.12 (Inaccurate ),28.39 (Inaccurate ),7.47 (Inaccurate ),25.0 % ,Should Improve
+267,0,Terminal Stance,100.0%,5.27 (Accurate ),14.06 (Inaccurate ),28.58 (Inaccurate ),8.35 (Inaccurate ),25.0 % ,Should Improve
+268,0,Terminal Stance,100.0%,5.54 (Accurate ),13.89 (Inaccurate ),28.46 (Inaccurate ),8.45 (Inaccurate ),25.0 % ,Should Improve
+269,0,Terminal Stance,100.0%,5.75 (Accurate ),13.57 (Inaccurate ),27.82 (Inaccurate ),7.76 (Inaccurate ),25.0 % ,Should Improve
+270,0,Terminal Stance,100.0%,5.34 (Accurate ),14.64 (Inaccurate ),26.44 (Inaccurate ),7.45 (Inaccurate ),25.0 % ,Should Improve
+271,0,Terminal Stance,100.0%,5.59 (Accurate ),14.54 (Inaccurate ),24.13 (Inaccurate ),6.97 (Inaccurate ),25.0 % ,Should Improve
+272,0,Terminal Stance,100.0%,6.19 (Accurate ),15.69 (Inaccurate ),25.14 (Inaccurate ),7.75 (Inaccurate ),25.0 % ,Should Improve
+273,0,Terminal Stance,100.0%,6.75 (Accurate ),16.04 (Inaccurate ),26.47 (Inaccurate ),8.11 (Inaccurate ),25.0 % ,Should Improve
+274,0,Terminal Stance,100.0%,7.74 (Accurate ),15.72 (Inaccurate ),29.96 (Inaccurate ),9.36 (Inaccurate ),25.0 % ,Should Improve
+275,0,Terminal Stance,100.0%,8.37 (Accurate ),14.7 (Inaccurate ),31.17 (Inaccurate ),9.66 (Inaccurate ),25.0 % ,Should Improve
+276,0,Terminal Stance,100.0%,7.98 (Accurate ),13.4 (Inaccurate ),29.18 (Inaccurate ),7.92 (Inaccurate ),25.0 % ,Should Improve
+277,0,Terminal Stance,100.0%,8.01 (Accurate ),12.31 (Inaccurate ),23.57 (Inaccurate ),5.88 (Inaccurate ),25.0 % ,Should Improve
+278,0,Terminal Stance,100.0%,8.21 (Accurate ),11.59 (Inaccurate ),22.09 (Inaccurate ),5.08 (Inaccurate ),25.0 % ,Should Improve
+279,0,Terminal Stance,100.0%,9.21 (Accurate ),11.06 (Inaccurate ),22.13 (Inaccurate ),5.91 (Inaccurate ),25.0 % ,Should Improve
+280,0,Terminal Stance,100.0%,9.35 (Accurate ),10.34 (Inaccurate ),20.97 (Inaccurate ),5.4 (Inaccurate ),25.0 % ,Should Improve
+281,0,Terminal Stance,100.0%,9.48 (Accurate ),9.95 (Inaccurate ),22.09 (Inaccurate ),5.31 (Inaccurate ),25.0 % ,Should Improve
+282,0,Terminal Stance,100.0%,9.44 (Accurate ),8.75 (Inaccurate ),22.34 (Inaccurate ),4.44 (Inaccurate ),25.0 % ,Should Improve
+283,0,Terminal Stance,100.0%,9.43 (Accurate ),6.31 (Inaccurate ),22.46 (Inaccurate ),2.65 (Inaccurate ),25.0 % ,Should Improve
+284,0,Terminal Stance,100.0%,9.54 (Accurate ),5.32 (Inaccurate ),22.67 (Inaccurate ),1.69 (Inaccurate ),25.0 % ,Should Improve
+285,0,Terminal Stance,100.0%,9.6 (Accurate ),4.81 (Inaccurate ),22.91 (Inaccurate ),0.94 (Inaccurate ),25.0 % ,Should Improve
+286,0,Terminal Stance,100.0%,10.07 (Accurate ),5.17 (Inaccurate ),23.83 (Inaccurate ),1.29 (Inaccurate ),25.0 % ,Should Improve
+287,0,Terminal Stance,100.0%,9.66 (Accurate ),4.88 (Inaccurate ),24.12 (Inaccurate ),0.15 (Inaccurate ),25.0 % ,Should Improve
+288,0,Terminal Stance,100.0%,9.44 (Accurate ),4.4 (Inaccurate ),23.36 (Inaccurate ),1.34 (Inaccurate ),25.0 % ,Should Improve
+289,0,Terminal Stance,100.0%,9.63 (Accurate ),3.09 (Inaccurate ),24.23 (Inaccurate ),3.37 (Inaccurate ),25.0 % ,Should Improve
+290,0,Terminal Stance,100.0%,9.73 (Accurate ),3.91 (Inaccurate ),23.28 (Inaccurate ),3.54 (Inaccurate ),25.0 % ,Should Improve
+291,0,Terminal Stance,100.0%,10.09 (Accurate ),3.78 (Inaccurate ),22.42 (Inaccurate ),3.43 (Inaccurate ),25.0 % ,Should Improve
+292,0,Terminal Stance,100.0%,10.04 (Accurate ),7.31 (Inaccurate ),21.19 (Inaccurate ),1.75 (Inaccurate ),25.0 % ,Should Improve
+293,0,Terminal Stance,100.0%,10.37 (Accurate ),5.0 (Inaccurate ),21.18 (Inaccurate ),2.76 (Inaccurate ),25.0 % ,Should Improve
+294,0,Terminal Stance,100.0%,10.46 (Accurate ),3.06 (Inaccurate ),20.2 (Inaccurate ),3.84 (Inaccurate ),25.0 % ,Should Improve
+295,0,Terminal Stance,100.0%,10.26 (Accurate ),1.29 (Inaccurate ),16.71 (Inaccurate ),5.97 (Inaccurate ),25.0 % ,Should Improve
+296,0,Terminal Stance,100.0%,11.46 (Accurate ),0.34 (Inaccurate ),15.83 (Inaccurate ),4.68 (Inaccurate ),25.0 % ,Should Improve
+297,0,Terminal Stance,100.0%,11.82 (Accurate ),0.93 (Inaccurate ),15.92 (Inaccurate ),5.36 (Inaccurate ),25.0 % ,Should Improve
+298,0,Terminal Stance,100.0%,11.54 (Accurate ),0.19 (Inaccurate ),13.84 (Inaccurate ),4.82 (Inaccurate ),25.0 % ,Should Improve
+299,0,Terminal Stance,100.0%,11.59 (Accurate ),0.76 (Inaccurate ),13.16 (Inaccurate ),5.38 (Inaccurate ),25.0 % ,Should Improve
+300,0,Terminal Stance,100.0%,11.6 (Accurate ),0.18 (Inaccurate ),12.54 (Inaccurate ),5.59 (Inaccurate ),25.0 % ,Should Improve
+301,0,Terminal Stance,100.0%,11.93 (Accurate ),0.07 (Inaccurate ),12.9 (Inaccurate ),6.09 (Inaccurate ),25.0 % ,Should Improve
+302,0,Terminal Stance,100.0%,11.53 (Accurate ),0.3 (Inaccurate ),11.58 (Inaccurate ),7.12 (Inaccurate ),25.0 % ,Should Improve
+303,0,Terminal Stance,100.0%,11.6 (Accurate ),0.76 (Inaccurate ),10.23 (Inaccurate ),7.07 (Inaccurate ),25.0 % ,Should Improve
+304,0,Terminal Stance,100.0%,10.73 (Accurate ),0.6 (Inaccurate ),11.07 (Inaccurate ),9.27 (Inaccurate ),25.0 % ,Should Improve
+305,0,Terminal Stance,100.0%,10.78 (Accurate ),0.92 (Inaccurate ),10.68 (Inaccurate ),9.09 (Inaccurate ),25.0 % ,Should Improve
+306,0,Terminal Stance,100.0%,10.95 (Accurate ),1.1 (Inaccurate ),9.18 (Inaccurate ),8.88 (Inaccurate ),25.0 % ,Should Improve
+307,0,Terminal Stance,100.0%,10.77 (Accurate ),2.51 (Inaccurate ),9.64 (Inaccurate ),9.15 (Inaccurate ),25.0 % ,Should Improve
+308,0,Terminal Stance,100.0%,10.41 (Accurate ),2.62 (Inaccurate ),11.44 (Inaccurate ),10.59 (Inaccurate ),25.0 % ,Should Improve
+309,0,Terminal Stance,100.0%,10.51 (Accurate ),4.02 (Inaccurate ),10.5 (Inaccurate ),10.19 (Inaccurate ),25.0 % ,Should Improve
+310,0,Terminal Stance,100.0%,10.33 (Accurate ),3.55 (Inaccurate ),9.49 (Inaccurate ),10.79 (Inaccurate ),25.0 % ,Should Improve
+311,0,Terminal Stance,100.0%,10.48 (Accurate ),4.18 (Inaccurate ),9.11 (Inaccurate ),10.27 (Inaccurate ),25.0 % ,Should Improve
+312,0,Terminal Stance,100.0%,10.21 (Accurate ),5.74 (Inaccurate ),8.94 (Inaccurate ),10.27 (Inaccurate ),25.0 % ,Should Improve
+313,0,Terminal Stance,100.0%,9.95 (Accurate ),6.4 (Inaccurate ),11.17 (Inaccurate ),11.63 (Inaccurate ),25.0 % ,Should Improve
+314,0,Terminal Stance,100.0%,10.43 (Accurate ),7.39 (Inaccurate ),9.55 (Inaccurate ),10.52 (Inaccurate ),25.0 % ,Should Improve
+315,0,Terminal Stance,100.0%,10.62 (Accurate ),8.7 (Inaccurate ),8.13 (Inaccurate ),9.66 (Inaccurate ),25.0 % ,Should Improve
+316,0,Terminal Stance,100.0%,10.63 (Accurate ),8.8 (Inaccurate ),6.44 (Inaccurate ),9.54 (Inaccurate ),25.0 % ,Should Improve
+317,0,Terminal Stance,100.0%,10.85 (Accurate ),9.7 (Inaccurate ),5.95 (Inaccurate ),8.88 (Inaccurate ),25.0 % ,Should Improve
+318,0,Terminal Stance,100.0%,10.48 (Accurate ),10.81 (Inaccurate ),6.92 (Inaccurate ),9.06 (Inaccurate ),25.0 % ,Should Improve
+319,0,Terminal Stance,100.0%,10.07 (Accurate ),12.15 (Inaccurate ),7.11 (Inaccurate ),9.41 (Inaccurate ),25.0 % ,Should Improve
+320,0,Terminal Stance,100.0%,10.25 (Accurate ),12.6 (Inaccurate ),7.22 (Inaccurate ),8.96 (Inaccurate ),25.0 % ,Should Improve
+321,0,Terminal Stance,100.0%,10.17 (Accurate ),13.5 (Inaccurate ),8.25 (Inaccurate ),8.7 (Inaccurate ),25.0 % ,Should Improve
+322,0,Terminal Stance,100.0%,10.21 (Accurate ),14.41 (Inaccurate ),7.49 (Inaccurate ),8.29 (Inaccurate ),25.0 % ,Should Improve
+323,0,Terminal Stance,100.0%,9.77 (Accurate ),15.0 (Inaccurate ),7.43 (Inaccurate ),8.86 (Inaccurate ),25.0 % ,Should Improve
+324,0,Terminal Stance,100.0%,9.87 (Accurate ),16.18 (Inaccurate ),8.12 (Inaccurate ),8.05 (Inaccurate ),25.0 % ,Should Improve
+325,0,Terminal Stance,100.0%,9.62 (Accurate ),17.26 (Inaccurate ),8.63 (Inaccurate ),7.71 (Inaccurate ),25.0 % ,Should Improve
+326,0,Terminal Stance,100.0%,9.52 (Accurate ),19.03 (Inaccurate ),8.91 (Inaccurate ),7.03 (Inaccurate ),25.0 % ,Should Improve
+327,0,Terminal Stance,100.0%,9.08 (Accurate ),20.4 (Inaccurate ),7.94 (Inaccurate ),7.23 (Inaccurate ),25.0 % ,Should Improve
+328,0,Terminal Stance,100.0%,8.91 (Accurate ),21.72 (Inaccurate ),8.03 (Inaccurate ),7.07 (Inaccurate ),25.0 % ,Should Improve
+329,0,Terminal Stance,100.0%,8.85 (Accurate ),23.13 (Inaccurate ),6.29 (Inaccurate ),6.37 (Inaccurate ),25.0 % ,Should Improve
+330,0,Terminal Stance,100.0%,8.91 (Accurate ),24.23 (Inaccurate ),6.79 (Inaccurate ),5.82 (Inaccurate ),25.0 % ,Should Improve
+331,0,Terminal Stance,100.0%,8.48 (Accurate ),26.36 (Inaccurate ),6.66 (Inaccurate ),5.34 (Inaccurate ),25.0 % ,Should Improve
+332,0,Terminal Stance,100.0%,8.24 (Accurate ),27.32 (Inaccurate ),5.81 (Inaccurate ),5.36 (Inaccurate ),25.0 % ,Should Improve
+333,0,Terminal Stance,100.0%,8.25 (Accurate ),29.25 (Inaccurate ),5.9 (Inaccurate ),4.6 (Inaccurate ),25.0 % ,Should Improve
+334,0,Terminal Stance,100.0%,8.78 (Accurate ),30.82 (Inaccurate ),6.92 (Inaccurate ),3.2 (Inaccurate ),25.0 % ,Should Improve
+335,0,Terminal Stance,100.0%,8.32 (Accurate ),30.71 (Inaccurate ),6.81 (Inaccurate ),3.61 (Inaccurate ),25.0 % ,Should Improve
+336,0,Terminal Stance,100.0%,7.95 (Accurate ),30.55 (Inaccurate ),6.78 (Inaccurate ),4.25 (Inaccurate ),25.0 % ,Should Improve
+337,0,Terminal Stance,100.0%,7.51 (Accurate ),36.28 (Accurate ),10.24 (Inaccurate ),1.47 (Inaccurate ),50.0 % ,Satisfactory
+338,0,Terminal Stance,100.0%,7.53 (Accurate ),37.1 (Accurate ),12.3 (Inaccurate ),0.93 (Inaccurate ),50.0 % ,Satisfactory
+339,0,Terminal Stance,100.0%,8.1 (Accurate ),37.47 (Accurate ),11.98 (Inaccurate ),0.46 (Inaccurate ),50.0 % ,Satisfactory
+340,0,Terminal Stance,100.0%,7.97 (Accurate ),38.16 (Accurate ),12.39 (Inaccurate ),0.96 (Inaccurate ),50.0 % ,Satisfactory
+341,0,Terminal Stance,100.0%,7.94 (Accurate ),38.94 (Accurate ),12.07 (Inaccurate ),1.67 (Inaccurate ),50.0 % ,Satisfactory
+342,0,Terminal Stance,100.0%,7.52 (Accurate ),39.67 (Accurate ),12.2 (Inaccurate ),2.15 (Inaccurate ),50.0 % ,Satisfactory
+343,0,Terminal Stance,100.0%,6.49 (Accurate ),42.59 (Accurate ),11.13 (Inaccurate ),3.74 (Inaccurate ),50.0 % ,Satisfactory
+344,0,Terminal Stance,100.0%,6.06 (Accurate ),43.74 (Accurate ),12.76 (Inaccurate ),4.0 (Inaccurate ),50.0 % ,Satisfactory
+345,0,Terminal Stance,100.0%,6.69 (Accurate ),44.51 (Accurate ),13.05 (Inaccurate ),5.27 (Inaccurate ),50.0 % ,Satisfactory
+346,0,Terminal Stance,100.0%,7.04 (Accurate ),44.85 (Accurate ),13.72 (Inaccurate ),6.26 (Inaccurate ),50.0 % ,Satisfactory
+347,0,Terminal Stance,100.0%,6.51 (Accurate ),45.52 (Accurate ),13.92 (Inaccurate ),6.03 (Inaccurate ),50.0 % ,Satisfactory
+348,0,Terminal Stance,100.0%,6.78 (Accurate ),45.16 (Accurate ),14.26 (Inaccurate ),6.31 (Inaccurate ),50.0 % ,Satisfactory
+349,0,Terminal Stance,100.0%,6.27 (Accurate ),42.17 (Accurate ),14.28 (Inaccurate ),4.67 (Inaccurate ),50.0 % ,Satisfactory
+350,0,Terminal Stance,100.0%,5.92 (Accurate ),41.18 (Accurate ),12.77 (Inaccurate ),4.32 (Inaccurate ),50.0 % ,Satisfactory
+351,0,Terminal Stance,100.0%,5.49 (Accurate ),39.93 (Accurate ),11.14 (Inaccurate ),4.58 (Inaccurate ),50.0 % ,Satisfactory
+352,0,Terminal Stance,100.0%,6.04 (Accurate ),40.49 (Accurate ),12.28 (Inaccurate ),4.96 (Inaccurate ),50.0 % ,Satisfactory
+353,0,Terminal Stance,100.0%,6.14 (Accurate ),40.18 (Accurate ),12.75 (Inaccurate ),5.88 (Inaccurate ),50.0 % ,Satisfactory
+354,0,Terminal Stance,100.0%,6.77 (Accurate ),38.23 (Accurate ),15.0 (Inaccurate ),6.63 (Inaccurate ),50.0 % ,Satisfactory
+355,0,Terminal Stance,100.0%,7.07 (Accurate ),37.57 (Accurate ),17.06 (Inaccurate ),8.4 (Inaccurate ),50.0 % ,Satisfactory
+356,0,Terminal Stance,100.0%,7.11 (Accurate ),34.81 (Inaccurate ),19.14 (Inaccurate ),9.35 (Inaccurate ),25.0 % ,Should Improve
+357,0,Terminal Stance,100.0%,7.2 (Accurate ),32.29 (Inaccurate ),20.65 (Inaccurate ),9.97 (Inaccurate ),25.0 % ,Should Improve
+358,0,Terminal Stance,100.0%,7.25 (Accurate ),32.08 (Inaccurate ),20.9 (Inaccurate ),9.85 (Inaccurate ),25.0 % ,Should Improve
+359,0,Terminal Stance,100.0%,6.91 (Accurate ),31.61 (Inaccurate ),22.57 (Inaccurate ),10.48 (Inaccurate ),25.0 % ,Should Improve
+360,0,Terminal Stance,100.0%,6.15 (Accurate ),34.65 (Inaccurate ),21.11 (Inaccurate ),12.16 (Inaccurate ),25.0 % ,Should Improve
+361,0,Terminal Stance,100.0%,5.34 (Accurate ),38.35 (Accurate ),18.91 (Inaccurate ),13.92 (Inaccurate ),50.0 % ,Satisfactory
+362,0,Terminal Stance,100.0%,5.51 (Accurate ),38.41 (Accurate ),15.5 (Inaccurate ),14.53 (Inaccurate ),50.0 % ,Satisfactory
+363,0,Terminal Stance,100.0%,5.35 (Accurate ),37.25 (Accurate ),12.91 (Inaccurate ),14.71 (Inaccurate ),50.0 % ,Satisfactory
+364,0,Terminal Stance,100.0%,6.31 (Accurate ),37.78 (Accurate ),12.69 (Inaccurate ),16.22 (Inaccurate ),50.0 % ,Satisfactory
+365,0,Terminal Stance,100.0%,6.37 (Accurate ),37.43 (Accurate ),11.0 (Inaccurate ),17.21 (Inaccurate ),50.0 % ,Satisfactory
+366,0,Terminal Stance,100.0%,6.42 (Accurate ),36.05 (Accurate ),9.83 (Inaccurate ),17.16 (Inaccurate ),50.0 % ,Satisfactory
+367,0,Terminal Stance,100.0%,6.0 (Accurate ),35.08 (Accurate ),9.4 (Inaccurate ),17.84 (Inaccurate ),50.0 % ,Satisfactory
+368,0,Terminal Stance,100.0%,5.85 (Accurate ),35.04 (Accurate ),8.79 (Inaccurate ),18.67 (Inaccurate ),50.0 % ,Satisfactory
+369,0,Terminal Stance,100.0%,6.12 (Accurate ),33.44 (Inaccurate ),8.6 (Inaccurate ),19.04 (Inaccurate ),25.0 % ,Should Improve
+370,0,Terminal Stance,100.0%,6.89 (Accurate ),33.05 (Inaccurate ),8.82 (Inaccurate ),19.56 (Inaccurate ),25.0 % ,Should Improve
+371,0,Terminal Stance,100.0%,6.43 (Accurate ),30.53 (Inaccurate ),8.84 (Inaccurate ),18.31 (Inaccurate ),25.0 % ,Should Improve
+372,0,Terminal Stance,100.0%,6.67 (Accurate ),28.59 (Inaccurate ),8.89 (Inaccurate ),18.52 (Inaccurate ),25.0 % ,Should Improve
+373,0,Terminal Stance,100.0%,6.49 (Accurate ),26.62 (Inaccurate ),7.79 (Inaccurate ),19.47 (Inaccurate ),25.0 % ,Should Improve
+374,0,Terminal Stance,100.0%,6.71 (Accurate ),25.27 (Inaccurate ),7.95 (Inaccurate ),19.75 (Inaccurate ),25.0 % ,Should Improve
+375,0,Terminal Stance,100.0%,6.77 (Accurate ),24.22 (Inaccurate ),8.0 (Inaccurate ),20.09 (Inaccurate ),25.0 % ,Should Improve
+376,0,Terminal Stance,100.0%,7.02 (Accurate ),23.6 (Inaccurate ),8.13 (Inaccurate ),19.82 (Inaccurate ),25.0 % ,Should Improve
+377,0,Terminal Stance,100.0%,6.8 (Accurate ),22.27 (Inaccurate ),7.74 (Inaccurate ),19.61 (Inaccurate ),25.0 % ,Should Improve
+378,0,Terminal Stance,100.0%,6.51 (Accurate ),20.14 (Inaccurate ),7.31 (Inaccurate ),18.73 (Inaccurate ),25.0 % ,Should Improve
+379,0,Terminal Stance,100.0%,6.91 (Accurate ),19.26 (Inaccurate ),6.79 (Inaccurate ),20.26 (Inaccurate ),25.0 % ,Should Improve
+380,0,Terminal Stance,100.0%,6.66 (Accurate ),18.03 (Inaccurate ),6.76 (Inaccurate ),19.68 (Inaccurate ),25.0 % ,Should Improve
+381,0,Terminal Stance,100.0%,6.42 (Accurate ),16.54 (Inaccurate ),6.26 (Inaccurate ),18.97 (Inaccurate ),25.0 % ,Should Improve
+382,0,Terminal Stance,100.0%,6.6 (Accurate ),15.1 (Inaccurate ),6.58 (Inaccurate ),18.4 (Inaccurate ),25.0 % ,Should Improve
+383,0,Terminal Stance,100.0%,6.3 (Accurate ),13.25 (Inaccurate ),5.99 (Inaccurate ),17.31 (Inaccurate ),25.0 % ,Should Improve
+384,0,Terminal Stance,100.0%,6.3 (Accurate ),12.56 (Inaccurate ),5.74 (Inaccurate ),17.36 (Inaccurate ),25.0 % ,Should Improve
+385,0,Terminal Stance,100.0%,6.51 (Accurate ),10.59 (Inaccurate ),4.99 (Inaccurate ),17.61 (Inaccurate ),25.0 % ,Should Improve
+386,0,Terminal Stance,100.0%,6.39 (Accurate ),8.88 (Inaccurate ),4.52 (Inaccurate ),16.97 (Inaccurate ),25.0 % ,Should Improve
+387,0,Terminal Stance,100.0%,6.54 (Accurate ),6.92 (Inaccurate ),5.1 (Inaccurate ),16.51 (Inaccurate ),25.0 % ,Should Improve
+388,0,Terminal Stance,100.0%,6.46 (Accurate ),6.54 (Inaccurate ),5.8 (Inaccurate ),15.93 (Inaccurate ),25.0 % ,Should Improve
+389,0,Terminal Stance,100.0%,6.34 (Accurate ),5.76 (Inaccurate ),6.14 (Inaccurate ),15.87 (Inaccurate ),25.0 % ,Should Improve
+390,0,Terminal Stance,100.0%,6.09 (Accurate ),5.15 (Inaccurate ),6.72 (Inaccurate ),15.63 (Inaccurate ),25.0 % ,Should Improve
+391,0,Terminal Stance,100.0%,6.7 (Accurate ),4.98 (Inaccurate ),7.01 (Inaccurate ),17.49 (Inaccurate ),25.0 % ,Should Improve
+392,0,Terminal Stance,100.0%,6.91 (Accurate ),4.4 (Inaccurate ),7.38 (Inaccurate ),18.03 (Inaccurate ),25.0 % ,Should Improve
+393,0,Terminal Stance,100.0%,6.91 (Accurate ),3.71 (Inaccurate ),8.39 (Inaccurate ),17.87 (Inaccurate ),25.0 % ,Should Improve
+394,0,Terminal Stance,100.0%,7.11 (Accurate ),4.04 (Inaccurate ),7.89 (Inaccurate ),18.01 (Inaccurate ),25.0 % ,Should Improve
+395,0,Terminal Stance,100.0%,6.85 (Accurate ),2.72 (Inaccurate ),7.98 (Inaccurate ),17.15 (Inaccurate ),25.0 % ,Should Improve
+396,0,Terminal Stance,100.0%,7.09 (Accurate ),2.49 (Inaccurate ),7.66 (Inaccurate ),17.57 (Inaccurate ),25.0 % ,Should Improve
+397,0,Terminal Stance,100.0%,8.02 (Accurate ),4.08 (Inaccurate ),9.74 (Inaccurate ),20.75 (Inaccurate ),25.0 % ,Should Improve
+398,0,Terminal Stance,100.0%,7.65 (Accurate ),3.3 (Inaccurate ),9.92 (Inaccurate ),20.08 (Inaccurate ),25.0 % ,Should Improve
+399,0,Terminal Stance,100.0%,7.55 (Accurate ),3.26 (Inaccurate ),9.92 (Inaccurate ),20.16 (Inaccurate ),25.0 % ,Should Improve
+400,0,Terminal Stance,100.0%,7.52 (Accurate ),2.71 (Inaccurate ),9.67 (Inaccurate ),19.55 (Inaccurate ),25.0 % ,Should Improve
+401,0,Terminal Stance,100.0%,7.46 (Accurate ),3.08 (Inaccurate ),10.01 (Inaccurate ),19.85 (Inaccurate ),25.0 % ,Should Improve
+402,0,Terminal Stance,100.0%,7.43 (Accurate ),3.92 (Inaccurate ),11.09 (Inaccurate ),20.41 (Inaccurate ),25.0 % ,Should Improve
+403,0,Terminal Stance,100.0%,7.57 (Accurate ),3.47 (Inaccurate ),12.45 (Inaccurate ),20.69 (Inaccurate ),25.0 % ,Should Improve
+404,0,Terminal Stance,100.0%,7.72 (Accurate ),3.13 (Inaccurate ),14.44 (Inaccurate ),20.22 (Inaccurate ),25.0 % ,Should Improve
+405,0,Terminal Stance,100.0%,8.29 (Accurate ),3.69 (Inaccurate ),15.61 (Inaccurate ),20.76 (Inaccurate ),25.0 % ,Should Improve
+406,0,Terminal Stance,100.0%,8.39 (Accurate ),4.41 (Inaccurate ),15.81 (Inaccurate ),21.29 (Inaccurate ),25.0 % ,Should Improve
+407,0,Terminal Stance,100.0%,8.36 (Accurate ),5.27 (Inaccurate ),15.93 (Inaccurate ),21.69 (Inaccurate ),25.0 % ,Should Improve
+408,0,Terminal Stance,100.0%,8.59 (Accurate ),5.54 (Inaccurate ),16.81 (Inaccurate ),21.81 (Inaccurate ),25.0 % ,Should Improve
+409,0,Terminal Stance,100.0%,7.82 (Accurate ),6.88 (Inaccurate ),17.18 (Inaccurate ),21.15 (Inaccurate ),25.0 % ,Should Improve
+410,0,Terminal Stance,100.0%,7.94 (Accurate ),7.92 (Inaccurate ),17.66 (Inaccurate ),21.53 (Inaccurate ),25.0 % ,Should Improve
+411,0,Terminal Stance,100.0%,8.16 (Accurate ),8.37 (Inaccurate ),19.04 (Inaccurate ),21.39 (Inaccurate ),25.0 % ,Should Improve
+412,0,Terminal Stance,100.0%,8.3 (Accurate ),8.29 (Inaccurate ),18.86 (Inaccurate ),21.6 (Inaccurate ),25.0 % ,Should Improve
+413,0,Terminal Stance,100.0%,8.06 (Accurate ),8.18 (Inaccurate ),19.46 (Inaccurate ),20.66 (Inaccurate ),25.0 % ,Should Improve
+414,0,Terminal Stance,100.0%,7.57 (Accurate ),8.52 (Inaccurate ),20.09 (Inaccurate ),19.93 (Inaccurate ),25.0 % ,Should Improve
+415,0,Terminal Stance,100.0%,7.59 (Accurate ),10.47 (Inaccurate ),20.92 (Inaccurate ),20.63 (Inaccurate ),25.0 % ,Should Improve
+416,0,Terminal Stance,100.0%,7.8 (Accurate ),12.5 (Inaccurate ),22.54 (Inaccurate ),21.22 (Inaccurate ),25.0 % ,Should Improve
+417,0,Terminal Stance,100.0%,7.6 (Accurate ),14.39 (Inaccurate ),23.45 (Inaccurate ),21.71 (Inaccurate ),25.0 % ,Should Improve
+418,0,Terminal Stance,100.0%,7.89 (Accurate ),12.85 (Inaccurate ),24.04 (Inaccurate ),20.89 (Inaccurate ),25.0 % ,Should Improve
+419,0,Terminal Stance,100.0%,7.59 (Accurate ),11.74 (Inaccurate ),24.74 (Inaccurate ),18.96 (Inaccurate ),25.0 % ,Should Improve
+420,0,Terminal Stance,100.0%,7.71 (Accurate ),12.45 (Inaccurate ),25.93 (Inaccurate ),18.99 (Inaccurate ),25.0 % ,Should Improve
+421,0,Terminal Stance,100.0%,7.94 (Accurate ),14.86 (Inaccurate ),25.95 (Inaccurate ),19.65 (Inaccurate ),25.0 % ,Should Improve
+422,0,Terminal Stance,100.0%,7.78 (Accurate ),15.86 (Inaccurate ),26.99 (Inaccurate ),19.47 (Inaccurate ),25.0 % ,Should Improve
+423,0,Terminal Stance,100.0%,7.29 (Accurate ),16.37 (Inaccurate ),28.63 (Inaccurate ),18.54 (Inaccurate ),25.0 % ,Should Improve
+424,0,Terminal Stance,100.0%,6.62 (Accurate ),15.2 (Inaccurate ),29.63 (Inaccurate ),16.67 (Inaccurate ),25.0 % ,Should Improve
+425,0,Terminal Stance,100.0%,6.27 (Accurate ),16.26 (Inaccurate ),30.71 (Inaccurate ),16.42 (Inaccurate ),25.0 % ,Should Improve
+426,0,Terminal Stance,100.0%,6.07 (Accurate ),17.18 (Inaccurate ),31.61 (Inaccurate ),16.34 (Inaccurate ),25.0 % ,Should Improve
+427,0,Terminal Stance,100.0%,5.94 (Accurate ),17.84 (Inaccurate ),32.53 (Inaccurate ),15.36 (Inaccurate ),25.0 % ,Should Improve
+428,0,Terminal Stance,100.0%,5.93 (Accurate ),18.74 (Inaccurate ),31.86 (Inaccurate ),15.28 (Inaccurate ),25.0 % ,Should Improve
+429,0,Terminal Stance,100.0%,5.97 (Accurate ),18.21 (Inaccurate ),34.39 (Inaccurate ),14.35 (Inaccurate ),25.0 % ,Should Improve
+430,0,Terminal Stance,100.0%,6.15 (Accurate ),19.21 (Inaccurate ),33.86 (Inaccurate ),14.63 (Inaccurate ),25.0 % ,Should Improve
+431,0,Terminal Stance,100.0%,6.61 (Accurate ),19.12 (Inaccurate ),35.29 (Accurate ),14.49 (Inaccurate ),50.0 % ,Satisfactory
+432,0,Terminal Stance,100.0%,6.98 (Accurate ),19.59 (Inaccurate ),35.15 (Accurate ),14.46 (Inaccurate ),50.0 % ,Satisfactory
+433,0,Terminal Stance,100.0%,7.26 (Accurate ),19.21 (Inaccurate ),34.77 (Inaccurate ),13.54 (Inaccurate ),25.0 % ,Should Improve
+434,0,Terminal Stance,100.0%,6.88 (Accurate ),18.34 (Inaccurate ),33.89 (Inaccurate ),11.93 (Inaccurate ),25.0 % ,Should Improve
+435,0,Terminal Stance,100.0%,7.25 (Accurate ),18.46 (Inaccurate ),35.38 (Accurate ),11.69 (Inaccurate ),50.0 % ,Satisfactory
+436,0,Terminal Stance,100.0%,6.97 (Accurate ),18.83 (Inaccurate ),34.95 (Inaccurate ),11.28 (Inaccurate ),25.0 % ,Should Improve
+437,0,Terminal Stance,100.0%,7.48 (Accurate ),18.34 (Inaccurate ),33.9 (Inaccurate ),10.99 (Inaccurate ),25.0 % ,Should Improve
+438,0,Terminal Stance,100.0%,7.59 (Accurate ),17.64 (Inaccurate ),33.17 (Inaccurate ),10.15 (Inaccurate ),25.0 % ,Should Improve
+439,0,Terminal Stance,100.0%,8.49 (Accurate ),17.5 (Inaccurate ),29.89 (Inaccurate ),9.75 (Inaccurate ),25.0 % ,Should Improve
+440,0,Terminal Stance,100.0%,8.41 (Accurate ),16.38 (Inaccurate ),29.26 (Inaccurate ),8.11 (Inaccurate ),25.0 % ,Should Improve
+441,0,Terminal Stance,100.0%,8.82 (Accurate ),16.28 (Inaccurate ),28.22 (Inaccurate ),8.27 (Inaccurate ),25.0 % ,Should Improve
+442,0,Terminal Stance,100.0%,8.06 (Accurate ),16.23 (Inaccurate ),28.71 (Inaccurate ),7.38 (Inaccurate ),25.0 % ,Should Improve
+443,0,Terminal Stance,100.0%,8.73 (Accurate ),15.6 (Inaccurate ),29.04 (Inaccurate ),7.02 (Inaccurate ),25.0 % ,Should Improve
+444,0,Terminal Stance,100.0%,9.26 (Accurate ),16.01 (Inaccurate ),29.74 (Inaccurate ),6.87 (Inaccurate ),25.0 % ,Should Improve
+445,0,Terminal Stance,100.0%,9.91 (Accurate ),18.09 (Inaccurate ),27.58 (Inaccurate ),7.3 (Inaccurate ),25.0 % ,Should Improve
+446,0,Terminal Stance,100.0%,10.39 (Accurate ),17.88 (Inaccurate ),27.29 (Inaccurate ),6.94 (Inaccurate ),25.0 % ,Should Improve
+447,0,Terminal Stance,100.0%,10.66 (Accurate ),16.62 (Inaccurate ),26.61 (Inaccurate ),6.08 (Inaccurate ),25.0 % ,Should Improve
+448,0,Terminal Stance,100.0%,10.82 (Accurate ),16.67 (Inaccurate ),25.44 (Inaccurate ),6.21 (Inaccurate ),25.0 % ,Should Improve
+449,0,Terminal Stance,100.0%,10.88 (Accurate ),16.78 (Inaccurate ),25.73 (Inaccurate ),5.94 (Inaccurate ),25.0 % ,Should Improve
+450,0,Terminal Stance,100.0%,11.32 (Accurate ),18.33 (Inaccurate ),24.56 (Inaccurate ),7.3 (Inaccurate ),25.0 % ,Should Improve
+451,0,Terminal Stance,100.0%,12.08 (Accurate ),17.48 (Inaccurate ),24.6 (Inaccurate ),7.41 (Inaccurate ),25.0 % ,Should Improve
+452,0,Terminal Stance,100.0%,12.55 (Accurate ),14.39 (Inaccurate ),25.36 (Inaccurate ),6.33 (Inaccurate ),25.0 % ,Should Improve
+453,0,Terminal Stance,100.0%,12.65 (Accurate ),14.96 (Inaccurate ),25.06 (Inaccurate ),6.86 (Inaccurate ),25.0 % ,Should Improve
+454,0,Terminal Stance,100.0%,12.68 (Accurate ),13.71 (Inaccurate ),24.3 (Inaccurate ),5.98 (Inaccurate ),25.0 % ,Should Improve
+455,0,Terminal Stance,100.0%,12.83 (Accurate ),11.94 (Inaccurate ),23.45 (Inaccurate ),5.37 (Inaccurate ),25.0 % ,Should Improve
+456,0,Terminal Stance,100.0%,12.59 (Accurate ),12.13 (Inaccurate ),18.84 (Inaccurate ),5.19 (Inaccurate ),25.0 % ,Should Improve
+457,0,Terminal Stance,100.0%,12.67 (Accurate ),8.58 (Inaccurate ),21.32 (Inaccurate ),2.79 (Inaccurate ),25.0 % ,Should Improve
+458,0,Terminal Stance,100.0%,12.79 (Accurate ),8.11 (Inaccurate ),21.1 (Inaccurate ),1.63 (Inaccurate ),25.0 % ,Should Improve
+459,0,Terminal Stance,100.0%,13.09 (Accurate ),8.58 (Inaccurate ),22.24 (Inaccurate ),1.71 (Inaccurate ),25.0 % ,Should Improve
+460,0,Terminal Stance,100.0%,13.0 (Accurate ),8.74 (Inaccurate ),20.57 (Inaccurate ),1.64 (Inaccurate ),25.0 % ,Should Improve
+461,0,Terminal Stance,100.0%,12.9 (Accurate ),7.68 (Inaccurate ),19.49 (Inaccurate ),0.28 (Inaccurate ),25.0 % ,Should Improve
+462,0,Terminal Stance,100.0%,12.98 (Accurate ),6.54 (Inaccurate ),19.67 (Inaccurate ),1.15 (Inaccurate ),25.0 % ,Should Improve
+463,0,Terminal Stance,100.0%,13.01 (Accurate ),5.69 (Inaccurate ),17.35 (Inaccurate ),2.75 (Inaccurate ),25.0 % ,Should Improve
+464,0,Terminal Stance,100.0%,12.65 (Accurate ),5.83 (Inaccurate ),15.52 (Inaccurate ),3.71 (Inaccurate ),25.0 % ,Should Improve
+465,0,Terminal Stance,100.0%,12.51 (Accurate ),6.33 (Inaccurate ),14.24 (Inaccurate ),3.95 (Inaccurate ),25.0 % ,Should Improve
+466,0,Terminal Stance,100.0%,13.07 (Accurate ),5.64 (Inaccurate ),14.54 (Inaccurate ),3.28 (Inaccurate ),25.0 % ,Should Improve
+467,0,Terminal Stance,100.0%,13.12 (Accurate ),4.85 (Inaccurate ),13.79 (Inaccurate ),3.79 (Inaccurate ),25.0 % ,Should Improve
+468,0,Terminal Stance,100.0%,13.29 (Accurate ),5.27 (Inaccurate ),12.62 (Inaccurate ),3.61 (Inaccurate ),25.0 % ,Should Improve
+469,0,Terminal Stance,100.0%,12.31 (Accurate ),3.94 (Inaccurate ),18.11 (Inaccurate ),6.5 (Inaccurate ),25.0 % ,Should Improve
+470,0,Terminal Stance,100.0%,12.14 (Accurate ),2.64 (Inaccurate ),11.19 (Inaccurate ),7.94 (Inaccurate ),25.0 % ,Should Improve
+471,0,Terminal Stance,100.0%,12.08 (Accurate ),3.33 (Inaccurate ),8.98 (Inaccurate ),8.19 (Inaccurate ),25.0 % ,Should Improve
+472,0,Terminal Stance,100.0%,12.34 (Accurate ),3.64 (Inaccurate ),8.83 (Inaccurate ),8.11 (Inaccurate ),25.0 % ,Should Improve
+473,0,Terminal Stance,100.0%,12.61 (Accurate ),4.12 (Inaccurate ),8.65 (Inaccurate ),7.82 (Inaccurate ),25.0 % ,Should Improve
+474,0,Terminal Stance,100.0%,12.91 (Accurate ),5.57 (Inaccurate ),8.09 (Inaccurate ),7.29 (Inaccurate ),25.0 % ,Should Improve
+475,0,Terminal Stance,100.0%,12.7 (Accurate ),6.17 (Inaccurate ),8.22 (Inaccurate ),8.06 (Inaccurate ),25.0 % ,Should Improve
+476,0,Terminal Stance,100.0%,12.68 (Accurate ),7.83 (Inaccurate ),7.83 (Inaccurate ),8.0 (Inaccurate ),25.0 % ,Should Improve
+477,0,Terminal Stance,100.0%,13.07 (Accurate ),9.6 (Inaccurate ),7.5 (Inaccurate ),7.09 (Inaccurate ),25.0 % ,Should Improve
+478,0,Terminal Stance,100.0%,13.43 (Accurate ),10.59 (Inaccurate ),8.22 (Inaccurate ),6.06 (Inaccurate ),25.0 % ,Should Improve
+479,0,Terminal Stance,100.0%,13.5 (Accurate ),10.77 (Inaccurate ),7.67 (Inaccurate ),6.24 (Inaccurate ),25.0 % ,Should Improve
+480,0,Terminal Stance,100.0%,13.26 (Accurate ),12.23 (Inaccurate ),7.26 (Inaccurate ),6.11 (Inaccurate ),25.0 % ,Should Improve
+481,0,Terminal Stance,100.0%,13.39 (Accurate ),12.76 (Inaccurate ),4.77 (Inaccurate ),5.95 (Inaccurate ),25.0 % ,Should Improve
+482,0,Terminal Stance,100.0%,13.48 (Accurate ),14.12 (Inaccurate ),4.74 (Inaccurate ),5.51 (Inaccurate ),25.0 % ,Should Improve
+483,0,Terminal Stance,100.0%,13.26 (Accurate ),14.33 (Inaccurate ),4.27 (Inaccurate ),6.03 (Inaccurate ),25.0 % ,Should Improve
+484,0,Terminal Stance,100.0%,13.44 (Accurate ),15.28 (Inaccurate ),4.26 (Inaccurate ),5.13 (Inaccurate ),25.0 % ,Should Improve
+485,0,Terminal Stance,100.0%,13.44 (Accurate ),16.37 (Inaccurate ),4.36 (Inaccurate ),4.68 (Inaccurate ),25.0 % ,Should Improve
+486,0,Terminal Stance,100.0%,13.53 (Accurate ),16.61 (Inaccurate ),7.56 (Inaccurate ),4.67 (Inaccurate ),25.0 % ,Should Improve
+487,0,Terminal Stance,100.0%,13.21 (Accurate ),18.87 (Inaccurate ),5.7 (Inaccurate ),4.37 (Inaccurate ),25.0 % ,Should Improve
+488,0,Terminal Stance,100.0%,13.13 (Accurate ),18.68 (Inaccurate ),4.84 (Inaccurate ),5.02 (Inaccurate ),25.0 % ,Should Improve
+489,0,Terminal Stance,100.0%,12.96 (Accurate ),20.05 (Inaccurate ),4.5 (Inaccurate ),4.82 (Inaccurate ),25.0 % ,Should Improve
+490,0,Terminal Stance,100.0%,13.29 (Accurate ),20.28 (Inaccurate ),4.81 (Inaccurate ),4.3 (Inaccurate ),25.0 % ,Should Improve
+491,0,Terminal Stance,100.0%,12.86 (Accurate ),21.17 (Inaccurate ),5.74 (Inaccurate ),4.76 (Inaccurate ),25.0 % ,Should Improve
+492,0,Terminal Stance,100.0%,12.66 (Accurate ),22.14 (Inaccurate ),5.71 (Inaccurate ),4.58 (Inaccurate ),25.0 % ,Should Improve
+493,0,Terminal Stance,100.0%,12.43 (Accurate ),25.48 (Inaccurate ),7.65 (Inaccurate ),3.96 (Inaccurate ),25.0 % ,Should Improve
+494,0,Terminal Stance,100.0%,12.16 (Accurate ),26.0 (Inaccurate ),8.6 (Inaccurate ),4.23 (Inaccurate ),25.0 % ,Should Improve
+495,0,Terminal Stance,100.0%,11.85 (Accurate ),27.89 (Inaccurate ),7.73 (Inaccurate ),3.6 (Inaccurate ),25.0 % ,Should Improve
+496,0,Terminal Stance,100.0%,11.88 (Accurate ),27.87 (Inaccurate ),7.46 (Inaccurate ),3.54 (Inaccurate ),25.0 % ,Should Improve
+497,0,Terminal Stance,100.0%,11.92 (Accurate ),28.69 (Inaccurate ),7.9 (Inaccurate ),3.11 (Inaccurate ),25.0 % ,Should Improve
+498,0,Terminal Stance,100.0%,11.92 (Accurate ),30.07 (Inaccurate ),9.22 (Inaccurate ),2.52 (Inaccurate ),25.0 % ,Should Improve
+499,0,Terminal Stance,100.0%,11.93 (Accurate ),32.39 (Inaccurate ),12.25 (Inaccurate ),1.14 (Inaccurate ),25.0 % ,Should Improve
+500,0,Terminal Stance,100.0%,11.34 (Accurate ),33.71 (Inaccurate ),13.83 (Inaccurate ),1.55 (Inaccurate ),25.0 % ,Should Improve
+501,0,Terminal Stance,100.0%,11.07 (Accurate ),36.28 (Accurate ),14.69 (Inaccurate ),0.68 (Inaccurate ),50.0 % ,Satisfactory
+502,0,Terminal Stance,100.0%,11.03 (Accurate ),37.99 (Accurate ),14.71 (Inaccurate ),0.32 (Inaccurate ),50.0 % ,Satisfactory
+503,0,Terminal Stance,100.0%,10.61 (Accurate ),38.46 (Accurate ),15.04 (Inaccurate ),0.02 (Inaccurate ),50.0 % ,Satisfactory
+504,0,Terminal Stance,100.0%,10.17 (Accurate ),41.54 (Accurate ),15.51 (Inaccurate ),0.92 (Inaccurate ),50.0 % ,Satisfactory
+505,0,Terminal Stance,100.0%,9.66 (Accurate ),43.99 (Accurate ),16.41 (Inaccurate ),1.85 (Inaccurate ),50.0 % ,Satisfactory
+506,0,Terminal Stance,100.0%,9.51 (Accurate ),43.53 (Accurate ),15.89 (Inaccurate ),1.25 (Inaccurate ),50.0 % ,Satisfactory
+507,0,Terminal Stance,100.0%,8.98 (Accurate ),43.95 (Accurate ),15.07 (Inaccurate ),0.63 (Inaccurate ),50.0 % ,Satisfactory
+508,0,Terminal Stance,100.0%,9.23 (Accurate ),45.72 (Accurate ),16.03 (Inaccurate ),2.18 (Inaccurate ),50.0 % ,Satisfactory
+509,0,Terminal Stance,100.0%,8.94 (Accurate ),46.41 (Accurate ),15.93 (Inaccurate ),2.2 (Inaccurate ),50.0 % ,Satisfactory
+510,0,Terminal Stance,100.0%,8.71 (Accurate ),48.62 (Accurate ),16.08 (Inaccurate ),3.24 (Inaccurate ),50.0 % ,Satisfactory
+511,0,Terminal Stance,100.0%,8.55 (Accurate ),51.6 (Accurate ),16.99 (Inaccurate ),4.89 (Inaccurate ),50.0 % ,Satisfactory
+512,0,Terminal Stance,100.0%,8.5 (Accurate ),51.46 (Accurate ),16.01 (Inaccurate ),4.96 (Inaccurate ),50.0 % ,Satisfactory
+513,0,Terminal Stance,100.0%,8.45 (Accurate ),51.89 (Accurate ),15.56 (Inaccurate ),5.3 (Inaccurate ),50.0 % ,Satisfactory
+514,0,Terminal Stance,100.0%,8.38 (Accurate ),53.11 (Accurate ),15.15 (Inaccurate ),5.75 (Inaccurate ),50.0 % ,Satisfactory
+515,0,Terminal Stance,100.0%,8.65 (Accurate ),52.26 (Accurate ),14.28 (Inaccurate ),6.12 (Inaccurate ),50.0 % ,Satisfactory
+516,0,Terminal Stance,100.0%,8.81 (Accurate ),50.62 (Accurate ),14.33 (Inaccurate ),6.41 (Inaccurate ),50.0 % ,Satisfactory
+517,0,Terminal Stance,100.0%,8.75 (Accurate ),47.76 (Accurate ),15.1 (Inaccurate ),6.22 (Inaccurate ),50.0 % ,Satisfactory
+518,0,Terminal Stance,100.0%,8.36 (Accurate ),46.18 (Accurate ),15.68 (Inaccurate ),6.01 (Inaccurate ),50.0 % ,Satisfactory
+519,0,Terminal Stance,100.0%,8.53 (Accurate ),46.55 (Accurate ),16.39 (Inaccurate ),7.58 (Inaccurate ),50.0 % ,Satisfactory
+520,0,Terminal Stance,100.0%,8.67 (Accurate ),46.08 (Accurate ),15.92 (Inaccurate ),7.69 (Inaccurate ),50.0 % ,Satisfactory
+521,0,Terminal Stance,100.0%,8.83 (Accurate ),46.7 (Accurate ),15.47 (Inaccurate ),8.96 (Inaccurate ),50.0 % ,Satisfactory
+522,0,Terminal Stance,100.0%,8.71 (Accurate ),46.05 (Accurate ),14.93 (Inaccurate ),9.53 (Inaccurate ),50.0 % ,Satisfactory
+523,0,Terminal Stance,100.0%,8.12 (Accurate ),44.86 (Accurate ),13.95 (Inaccurate ),10.3 (Inaccurate ),50.0 % ,Satisfactory
+524,0,Terminal Stance,100.0%,8.29 (Accurate ),43.34 (Accurate ),12.93 (Inaccurate ),10.48 (Inaccurate ),50.0 % ,Satisfactory
+525,0,Terminal Stance,100.0%,8.94 (Accurate ),45.74 (Accurate ),13.37 (Inaccurate ),13.96 (Inaccurate ),50.0 % ,Satisfactory
+526,0,Terminal Stance,100.0%,8.73 (Accurate ),43.89 (Accurate ),13.34 (Inaccurate ),13.08 (Inaccurate ),50.0 % ,Satisfactory
+527,0,Terminal Stance,100.0%,8.5 (Accurate ),44.36 (Accurate ),12.79 (Inaccurate ),14.58 (Inaccurate ),50.0 % ,Satisfactory
+528,0,Terminal Stance,100.0%,9.04 (Accurate ),42.56 (Accurate ),12.25 (Inaccurate ),17.0 (Inaccurate ),50.0 % ,Satisfactory
+529,0,Terminal Stance,100.0%,9.18 (Accurate ),42.45 (Accurate ),13.14 (Inaccurate ),17.93 (Inaccurate ),50.0 % ,Satisfactory
+530,0,Terminal Stance,100.0%,9.12 (Accurate ),39.95 (Accurate ),13.5 (Inaccurate ),17.62 (Inaccurate ),50.0 % ,Satisfactory
+531,0,Terminal Stance,100.0%,9.35 (Accurate ),39.99 (Accurate ),13.19 (Inaccurate ),19.48 (Inaccurate ),50.0 % ,Satisfactory
+532,0,Terminal Stance,100.0%,9.37 (Accurate ),39.48 (Accurate ),13.1 (Inaccurate ),19.32 (Inaccurate ),50.0 % ,Satisfactory
+533,0,Terminal Stance,100.0%,9.28 (Accurate ),38.82 (Accurate ),12.8 (Inaccurate ),20.2 (Inaccurate ),50.0 % ,Satisfactory
+534,0,Terminal Stance,100.0%,9.17 (Accurate ),37.07 (Accurate ),12.02 (Inaccurate ),19.77 (Inaccurate ),50.0 % ,Satisfactory
+535,0,Terminal Stance,100.0%,9.31 (Accurate ),36.23 (Accurate ),10.88 (Inaccurate ),21.82 (Inaccurate ),50.0 % ,Satisfactory
+536,0,Terminal Stance,100.0%,9.39 (Accurate ),35.13 (Accurate ),9.47 (Inaccurate ),22.64 (Inaccurate ),50.0 % ,Satisfactory
+537,0,Terminal Stance,100.0%,9.61 (Accurate ),34.0 (Inaccurate ),8.89 (Inaccurate ),23.31 (Inaccurate ),25.0 % ,Should Improve
+538,0,Terminal Stance,100.0%,9.37 (Accurate ),33.67 (Inaccurate ),8.11 (Inaccurate ),22.87 (Inaccurate ),25.0 % ,Should Improve
+539,0,Terminal Stance,100.0%,9.48 (Accurate ),32.53 (Inaccurate ),7.6 (Inaccurate ),22.71 (Inaccurate ),25.0 % ,Should Improve
+540,0,Terminal Stance,100.0%,9.54 (Accurate ),31.73 (Inaccurate ),7.14 (Inaccurate ),23.16 (Inaccurate ),25.0 % ,Should Improve
+541,0,Terminal Stance,100.0%,9.46 (Accurate ),28.72 (Inaccurate ),6.64 (Inaccurate ),23.33 (Inaccurate ),25.0 % ,Should Improve
+542,0,Terminal Stance,100.0%,9.25 (Accurate ),26.14 (Inaccurate ),6.96 (Inaccurate ),22.71 (Inaccurate ),25.0 % ,Should Improve
+543,0,Terminal Stance,100.0%,9.38 (Accurate ),25.09 (Inaccurate ),7.09 (Inaccurate ),23.31 (Inaccurate ),25.0 % ,Should Improve
+544,0,Terminal Stance,100.0%,9.36 (Accurate ),25.3 (Inaccurate ),7.87 (Inaccurate ),23.35 (Inaccurate ),25.0 % ,Should Improve
+545,0,Initial Contact,0.09%,9.25 (Accurate ),23.96 (Accurate ),7.48 (Inaccurate ),23.25 (Accurate ),75.0 % ,Good
+546,0,Initial Contact,0.18%,8.72 (Accurate ),23.02 (Accurate ),7.48 (Inaccurate ),22.64 (Accurate ),75.0 % ,Good
+547,0,Initial Contact,0.27%,9.07 (Accurate ),21.05 (Accurate ),7.21 (Inaccurate ),22.74 (Accurate ),75.0 % ,Good
+548,0,Initial Contact,0.36%,9.08 (Accurate ),19.93 (Accurate ),7.77 (Inaccurate ),22.47 (Accurate ),75.0 % ,Good
+549,0,Initial Contact,0.46%,9.16 (Accurate ),18.81 (Accurate ),8.48 (Inaccurate ),22.47 (Accurate ),75.0 % ,Good
+550,0,Initial Contact,0.55%,8.91 (Accurate ),18.27 (Accurate ),9.02 (Inaccurate ),21.86 (Accurate ),75.0 % ,Good
+551,0,Initial Contact,0.64%,8.78 (Accurate ),17.73 (Accurate ),8.51 (Inaccurate ),21.95 (Accurate ),75.0 % ,Good
+552,0,Initial Contact,0.72%,8.44 (Accurate ),15.27 (Accurate ),8.39 (Inaccurate ),20.95 (Accurate ),75.0 % ,Good
+553,0,Initial Contact,0.81%,8.09 (Accurate ),12.51 (Accurate ),7.91 (Inaccurate ),19.8 (Accurate ),75.0 % ,Good
+554,0,Initial Contact,0.9%,7.91 (Accurate ),11.48 (Accurate ),8.7 (Inaccurate ),19.72 (Accurate ),75.0 % ,Good
+555,0,Initial Contact,0.99%,7.61 (Accurate ),12.25 (Accurate ),8.67 (Inaccurate ),20.57 (Accurate ),75.0 % ,Good
+556,0,Initial Contact,1.08%,7.26 (Accurate ),11.36 (Accurate ),8.8 (Inaccurate ),19.03 (Accurate ),75.0 % ,Good
+557,0,Initial Contact,1.17%,7.52 (Accurate ),10.48 (Accurate ),8.72 (Inaccurate ),19.46 (Accurate ),75.0 % ,Good
+558,0,Initial Contact,1.25%,10.68 (Accurate ),14.83 (Accurate ),9.27 (Inaccurate ),24.95 (Accurate ),75.0 % ,Good
+559,0,Initial Contact,1.34%,10.34 (Accurate ),19.69 (Accurate ),0.4 (Inaccurate ),29.92 (Accurate ),75.0 % ,Good

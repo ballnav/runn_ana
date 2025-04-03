@@ -1,0 +1,2 @@
+cycleCount,totalFrames,trunkLeanValue,trunkLeanPercentage,trunkLeanRes,frontKneeValue,frontKneePercentage,frontKneeRes,backKneeValue,backKneePercentage,backKneeRes,hipValue,hipPercentage,hipRes,angleScore,angleRes,GoodScore,GoodPercentage,SatisfactoryScore,SatisfactoryPercentage,Should_ImproveScore,Should_ImprovePercentage
+0,559,372,66.55 %,Satisfactory,112,20.04 %,Should Improve,3,0.54 %,Should Improve,15,2.68 %,Should Improve,22.45,Should Improve,15,2.68%,77,13.77%,467,83.54%
